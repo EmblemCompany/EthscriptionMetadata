@@ -1,9 +1,17 @@
 # EthscriptionMetadata
 
-##install 
+## Install 
 
-```
-npm install https://github.com/EmblemCompany/EthscriptionMetadata.git
+```bash
+npm install ethscriptionmetadata
 ```
 
-Coming soon, publish to npm repo
+## Add to App
+
+```javascript
+import {EtherscriptionMetadata} from 'ethscriptionmetadata'
+```
+
+## Example
+
+
