@@ -1,6 +1,6 @@
 {
   "name": "ethscriptionmetadata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Metadata related to Ethscription collections",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/EmblemCompany/EthscriptionMetadata.git"
   },
+  "types": "types/index.d.ts",
   "author": "Shannon Code <emblem.pro>",
   "license": "MIT",
   "bugs": {
