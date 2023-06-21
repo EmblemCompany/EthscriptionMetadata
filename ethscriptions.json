@@ -63772,5 +63772,867 @@
         "number": "7"
       }
     ]
+  },
+  {
+    "name": "Arthereum",
+    "inscription_icon": "0xe6288369480ebfae4f5ace8098493619ff3d46f435db9b291f1a381075cba75d",
+    "supply": "50",
+    "slug": "Arthereum",
+    "description": "A collection of 50 generative pixel art outputs, base64 and hex encoded as Ethscriptions",
+    "twitter_link": "https://twitter.com/crypt0biwan",
+    "discord_link": "",
+    "website_link": "https://crypt0biwan.github.io/Arthereum/",
+    "inscriptions": [
+      {
+        "id": "0x1ef0ea734de727bbbd2a195a0fdbd3a2dedc4fa37195467f8e21b18daeee3766",
+        "meta": {
+          "name": "Arthereum #1",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13305
+            }
+          ]
+        },
+        "number": 1
+      },
+      {
+        "id": "0x0e9e21ce15331046da71fbf62681ee20b4b73546ffe2c38dc01d42c9a32594c3",
+        "meta": {
+          "name": "Arthereum #2",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13306
+            }
+          ]
+        },
+        "number": 2
+      },
+      {
+        "id": "0xe6288369480ebfae4f5ace8098493619ff3d46f435db9b291f1a381075cba75d",
+        "meta": {
+          "name": "Arthereum #3",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13310
+            }
+          ]
+        },
+        "number": 3
+      },
+      {
+        "id": "0x98c01d630403b142e1b168bee432be26e8415d6149538e31af5016f4cd51dce4",
+        "meta": {
+          "name": "Arthereum #4",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13311
+            }
+          ]
+        },
+        "number": 4
+      },
+      {
+        "id": "0xadc4973c34c5271d8000aae6e206c6704707dd8e69909f2ce0e2fb7aa51be299",
+        "meta": {
+          "name": "Arthereum #5",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13312
+            }
+          ]
+        },
+        "number": 5
+      },
+      {
+        "id": "0x3f1a6a28f6edd0d8462ad43df859389133673f5f203a01a73c79ec8921e403ff",
+        "meta": {
+          "name": "Arthereum #6",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13314
+            }
+          ]
+        },
+        "number": 6
+      },
+      {
+        "id": "0x02112f184d9146dc7c67ba0d9b95f28958b62540845180f832aa4735f3135210",
+        "meta": {
+          "name": "Arthereum #7",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13316
+            }
+          ]
+        },
+        "number": 7
+      },
+      {
+        "id": "0xdf6f041e23eee6c74b6870a1df42d6540fafd8f63236a790a5bc1c3679147d9e",
+        "meta": {
+          "name": "Arthereum #8",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13319
+            }
+          ]
+        },
+        "number": 8
+      },
+      {
+        "id": "0xea9ea54383ec1e02cb9b98eafa57e68f8cab6f1f582a73cedd533c6d838980fd",
+        "meta": {
+          "name": "Arthereum #9",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13320
+            }
+          ]
+        },
+        "number": 9
+      },
+      {
+        "id": "0xce6d4e3440c9c81c4069a54f7915f4f443d2dcdab7a97f7566354eb8d3a64348",
+        "meta": {
+          "name": "Arthereum #10",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13321
+            }
+          ]
+        },
+        "number": 10
+      },
+      {
+        "id": "0x45622e4906b30a606503d1b8d14250a684773c0af3bb26c4887257066f69b3f8",
+        "meta": {
+          "name": "Arthereum #11",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13323
+            }
+          ]
+        },
+        "number": 11
+      },
+      {
+        "id": "0xf4ee49bc3a176120dd8f053fac43a1be68707daac735965a8ad06c73215cd45f",
+        "meta": {
+          "name": "Arthereum #12",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13326
+            }
+          ]
+        },
+        "number": 12
+      },
+      {
+        "id": "0x969bd80b43d2578fd0bc9361e7f1f95147c86e319dba9ef18eae38190eafb806",
+        "meta": {
+          "name": "Arthereum #13",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13328
+            }
+          ]
+        },
+        "number": 13
+      },
+      {
+        "id": "0xb950eb9f7c2508b9a9c8cf5addd5a25e9b1752abbea74ade4f1a45f30c053ba9",
+        "meta": {
+          "name": "Arthereum #14",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13330
+            }
+          ]
+        },
+        "number": 14
+      },
+      {
+        "id": "0x9a78a3cf82109a550ca100ee89ae5df8302fbf2418cc4fee472d397fd47c65b8",
+        "meta": {
+          "name": "Arthereum #15",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13334
+            }
+          ]
+        },
+        "number": 15
+      },
+      {
+        "id": "0x9965a4c7d12da7fa899a39fcc3ba850624c78384ca60290aa47adc1aaa0192c9",
+        "meta": {
+          "name": "Arthereum #16",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13336
+            }
+          ]
+        },
+        "number": 16
+      },
+      {
+        "id": "0x5b8e079d5436acce0185b4d7d0651f47e46b71e271f726af3a9be93e80df70d6",
+        "meta": {
+          "name": "Arthereum #17",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13340
+            }
+          ]
+        },
+        "number": 17
+      },
+      {
+        "id": "0x6f4f3cab637284450c21b10d4dde2fcb4de414b29921740bb1181a87a004aacc",
+        "meta": {
+          "name": "Arthereum #18",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13341
+            }
+          ]
+        },
+        "number": 18
+      },
+      {
+        "id": "0xaa3b3abb6fc7f36c8a6f89830b16acb0a181dad8cdc032eeda2e0a7b0698c06e",
+        "meta": {
+          "name": "Arthereum #19",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13344
+            }
+          ]
+        },
+        "number": 19
+      },
+      {
+        "id": "0x5c1347ba336e1feaf9f56b73b845cba3fcca1e1d3619ee3d34df5d6ab1b23ddc",
+        "meta": {
+          "name": "Arthereum #20",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13345
+            }
+          ]
+        },
+        "number": 20
+      },
+      {
+        "id": "0x3bbbb9a3936da8508f805a63407526b894747137f0c27b283864ca4ef107999f",
+        "meta": {
+          "name": "Arthereum #21",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13351
+            }
+          ]
+        },
+        "number": 21
+      },
+      {
+        "id": "0x70cccbceec9cb655d60c58c0cecb50b149a7e2ba029439b6eedbf1f71c8a52e4",
+        "meta": {
+          "name": "Arthereum #22",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13352
+            }
+          ]
+        },
+        "number": 22
+      },
+      {
+        "id": "0x32d6f3a66edeef82ba27a9368b352ce2d9fb6c83b1d57194535848be2105cf5d",
+        "meta": {
+          "name": "Arthereum #23",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13355
+            }
+          ]
+        },
+        "number": 23
+      },
+      {
+        "id": "0x70fa14843c17d3fe23c8cfa5ef5e0957e63a01ac70abde527f253d7c1f508d59",
+        "meta": {
+          "name": "Arthereum #24",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13357
+            }
+          ]
+        },
+        "number": 24
+      },
+      {
+        "id": "0xe6345d55f31513db2ba97414eb47e5b14dae4beb7f11779a6c9b76a10a2276f5",
+        "meta": {
+          "name": "Arthereum #25",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13358
+            }
+          ]
+        },
+        "number": 25
+      },
+      {
+        "id": "0x7a1c2d56c511cdca3b9b9d4472c494baebb5c9361bcf97ba8bbeef5903b1b53c",
+        "meta": {
+          "name": "Arthereum #26",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13360
+            }
+          ]
+        },
+        "number": 26
+      },
+      {
+        "id": "0x91d8cabbade158fc63b399edb0851c5802693b365d441f42867a8382669dff8f",
+        "meta": {
+          "name": "Arthereum #27",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13362
+            }
+          ]
+        },
+        "number": 27
+      },
+      {
+        "id": "0x9f1b49bb733248c791431e575613f14b349584352fba0cc66935f9034af815e3",
+        "meta": {
+          "name": "Arthereum #28",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13363
+            }
+          ]
+        },
+        "number": 28
+      },
+      {
+        "id": "0x9c0626213e953983988abea2540d7bc17a3f1f9c73cf1a89640530becd809960",
+        "meta": {
+          "name": "Arthereum #29",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13365
+            }
+          ]
+        },
+        "number": 29
+      },
+      {
+        "id": "0x8cf531e619aeca2e58adfd9ece1dc7ce6067ced283c3d46be9978cf92545c65c",
+        "meta": {
+          "name": "Arthereum #30",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13367
+            }
+          ]
+        },
+        "number": 30
+      },
+      {
+        "id": "0x94f5b27fdb6b81a496c3b78d81df344796094a6ecf1aea2b958ac433fa0d5e59",
+        "meta": {
+          "name": "Arthereum #31",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13369
+            }
+          ]
+        },
+        "number": 31
+      },
+      {
+        "id": "0xb75e4787f52eb3c05b3bac856237ebb2ef40d2d6b3d9c81aac60f4ba7f341051",
+        "meta": {
+          "name": "Arthereum #32",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13371
+            }
+          ]
+        },
+        "number": 32
+      },
+      {
+        "id": "0x3808637aa4f84919f7de555370725d96013303a4ef56b027221176b1831b90b3",
+        "meta": {
+          "name": "Arthereum #33",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13373
+            }
+          ]
+        },
+        "number": 33
+      },
+      {
+        "id": "0x9df780db726c9e1cbfbba9eabea918b00681516044f8bf679f60bd623c50861b",
+        "meta": {
+          "name": "Arthereum #34",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13375
+            }
+          ]
+        },
+        "number": 34
+      },
+      {
+        "id": "0x3fade676ddf8f464ad5ab11898787ffbd82023ce7f95d12fabf5589bb8f20d47",
+        "meta": {
+          "name": "Arthereum #35",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13377
+            }
+          ]
+        },
+        "number": 35
+      },
+      {
+        "id": "0xf1d8762dbc14f306bb952450f58d15791511403fac5ab04afd5c1340ad7e811a",
+        "meta": {
+          "name": "Arthereum #36",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13385
+            }
+          ]
+        },
+        "number": 36
+      },
+      {
+        "id": "0xfebb2636c5d918a12d23e99e2a5801aa0868623d32b6170dc6611039bd3bfdf7",
+        "meta": {
+          "name": "Arthereum #37",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13386
+            }
+          ]
+        },
+        "number": 37
+      },
+      {
+        "id": "0x821e9759105d02609c7ebaa58f0f9fb076efdaea72eb5b283c5ec5aa12f4e444",
+        "meta": {
+          "name": "Arthereum #38",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13389
+            }
+          ]
+        },
+        "number": 38
+      },
+      {
+        "id": "0xfde203cbae9083e406e27a20fcfef62de68ee3221abccf32910a952a0b63235b",
+        "meta": {
+          "name": "Arthereum #39",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13392
+            }
+          ]
+        },
+        "number": 39
+      },
+      {
+        "id": "0xeac03da205a92c374a18dd33e4cea9f4e0b9bd31ba063d0ba1ac283da9975246",
+        "meta": {
+          "name": "Arthereum #40",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13431
+            }
+          ]
+        },
+        "number": 40
+      },
+      {
+        "id": "0x37a502356484662b6f3da28d85ec6bd4416e20995c693c0cbc68dbfb8253d422",
+        "meta": {
+          "name": "Arthereum #41",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13434
+            }
+          ]
+        },
+        "number": 41
+      },
+      {
+        "id": "0xf5d3669eeacbff2ce1bd8b19a06809b96de44a4de2bf7c165834a256fabbfb92",
+        "meta": {
+          "name": "Arthereum #42",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13436
+            }
+          ]
+        },
+        "number": 42
+      },
+      {
+        "id": "0xc04ecf4adebeed24726ad2d44d2ad0f2793a53dd83c618772fcf5ca508e7a0a8",
+        "meta": {
+          "name": "Arthereum #43",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13438
+            }
+          ]
+        },
+        "number": 43
+      },
+      {
+        "id": "0xb0dbd79cdad8935d68746af01ebb482fb28959f87e3db3d9225e9c9179171abc",
+        "meta": {
+          "name": "Arthereum #44",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13442
+            }
+          ]
+        },
+        "number": 44
+      },
+      {
+        "id": "0x53e67cfabc34cee4a683686f1a0efc333b548c01ddb529cff7687970d34f3f9b",
+        "meta": {
+          "name": "Arthereum #45",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13443
+            }
+          ]
+        },
+        "number": 45
+      },
+      {
+        "id": "0x0c2f8cd3845f9423cda33f9dc5e399764f61685157250112fa265964f40d17c7",
+        "meta": {
+          "name": "Arthereum #46",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13445
+            }
+          ]
+        },
+        "number": 46
+      },
+      {
+        "id": "0x4a7c934b392fae4d93e2a0f1433eec11863432fecbeae98dd6d0bf7ef0ccd982",
+        "meta": {
+          "name": "Arthereum #47",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13447
+            }
+          ]
+        },
+        "number": 47
+      },
+      {
+        "id": "0x6d36b39a4eb0d670117d1957af64734418eee582e3d27a73976dc55d431ba8a2",
+        "meta": {
+          "name": "Arthereum #48",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13448
+            }
+          ]
+        },
+        "number": 48
+      },
+      {
+        "id": "0x6fbed6dc16de421ff6fec80decaea0c3c081f4cedd9431ef391f7f053cd9a1af",
+        "meta": {
+          "name": "Arthereum #49",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13451
+            }
+          ]
+        },
+        "number": 49
+      },
+      {
+        "id": "0xfd0b0dc226eda956027fc6a8e35eea9994d66f9ccc4584b2c99e314ee7b9e7fa",
+        "meta": {
+          "name": "Arthereum #50",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Arthereum"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13454
+            }
+          ]
+        },
+        "number": 50
+      }
+    ]
   }
 ]
