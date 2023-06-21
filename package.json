@@ -1,6 +1,6 @@
 {
   "name": "ethscriptionmetadata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Metadata related to Ethscription collections",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/EmblemCompany/EthscriptionMetadata#readme",
   "dependencies": {
     "fs": "^0.0.1-security"
-  }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
 }
