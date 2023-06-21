@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Digivatar Pixels",
+        "inscription_icon": "0xaa41dc8c1e8b8cbba347924646a2a9189c32fb2203cfceac703c0bee86ad380a",
+        "supply": "420",
+        "slug": "Digivatar Pixles",
+        "description": "Digivatar official ethscriptions custom 1/1 pixel perfect, pixel art collection",
+        "twitter_link": "https://twitter.com/Digivatar",
+        "discord_link": "",
+        "website_link": "https://digivatar.com",
+        "inscriptions": [
+            {
+                "id": "0x6c0a2d1470f040c80f01800be29ea29c73f6557ffec81687c42d03d2c6eb0d4a",
+                "meta": {
+                    "name": "DigiPixel #0",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "0"
+            },
+            {
+                "id": "0x048874da149dd1dbaa7338de11d2736c9cb7a1cde6bb08e1a5738c256fad42c4",
+                "meta": {
+                    "name": "DigiPixel #1",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "1"
+            },
+            {
+                "id": "0x849109015666ab9343e236d4fdd5f68e858ea345c8e96fbc6bcc70c5d4ded6a6",
+                "meta": {
+                    "name": "DigiPixel #2",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "2"
+            },
+            {
+                "id": "0x004b0853b9155ea7ffda830079cb095b5402d1f0626f03052214743550553763",
+                "meta": {
+                    "name": "DigiPixel #3",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "3"
+            },
+            {
+                "id": "0x3bb6025bcf8ff69cdbc8629aa2a2e25dc8e976bc5b54d899e9aba20b6d258390",
+                "meta": {
+                    "name": "DigiPixel #4",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "4"
+            },
+            {
+                "id": "0xb2957cdf10e6797348e439c74af5ef4552ac4a935c4daff3e767a89654d3b556",
+                "meta": {
+                    "name": "DigiPixel #5",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "5"
+            },
+            {
+                "id": "0x8f55dddc74f161d8837b957f7a11834394fd900aeb7223e8b55becd513e5ea1f",
+                "meta": {
+                    "name": "DigiPixel #6",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "6"
+            },
+            {
+                "id": "0x4e43ca324b6450ff5f82d15a77fdf1cc4db6231b37e4a7c8d5b792d595e9e2f3",
+                "meta": {
+                    "name": "DigiPixel #7",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "DigiMechs"
+                        }
+                    ]
+                },
+                "number": "7"
+            },
+            {
+                "id": "0xf82fa2f512c192b3db7007fb58706fc50c2615c8f4420ff2ef6efd32f29fe6ce",
+                "meta": {
+                    "name": "DigiPixel #8",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "8"
+            }
+        ]
+    }
+]
