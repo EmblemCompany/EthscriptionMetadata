@@ -62071,5 +62071,1603 @@
         "number": "25"
       }
     ]
+  },
+  {
+    "name": "Traverser",
+    "inscription_icon": "0xf7d81d8749f8aaf7ae768bdb5dbd46fd8a6749fb35688ec173e8a048997e760d",
+    "supply": "122",
+    "slug": "Traverser",
+    "description": "chapter 4: the action in ethscription. 122 traversers live in SUB 100k Ethscriptions between  #11641 and #99604",
+    "twitter_link": "https://twitter.com/ape_traverser",
+    "discord_link": "",
+    "website_link": "",
+    "inscriptions": [
+      {
+        "id": "0x9c2a3586f3095b69578e2aa4cc208b4d0c40e37116edee4c8853d9d7b0e22662",
+        "meta": {
+          "name": "Traverser #0",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "0"
+      },
+      {
+        "id": "0x460b3142ee99ddc18064565e75264cc9ba65b29d0392ba30b29f156bf2123b6c",
+        "meta": {
+          "name": "Traverser #1",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "1"
+      },
+      {
+        "id": "0xc0cac588098d3dcc96581ab5ce4a244daadfddb02f679d8bc1fbebb42e802d82",
+        "meta": {
+          "name": "Traverser #2",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "2"
+      },
+      {
+        "id": "0xdcb19f01202658fc4fac8eecb900597840d6094f660b88de278a1212116549c0",
+        "meta": {
+          "name": "Traverser #3",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "3"
+      },
+      {
+        "id": "0x3eb5225a8307581dfaac58422a21af252d2ade8fab39d76681be6a17c074bbb9",
+        "meta": {
+          "name": "Traverser #4",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "4"
+      },
+      {
+        "id": "0x5254802066749a774e8d19cde1c083ace3484acba196998bd5f0dfc7c22014f9",
+        "meta": {
+          "name": "Traverser #5",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "5"
+      },
+      {
+        "id": "0xc87014ea761c0669c78b3b467468d4c7c4813b054ded92f2703c6dc3af9208be",
+        "meta": {
+          "name": "Traverser #6",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "6"
+      },
+      {
+        "id": "0x2ec5e0f3b169bf217c1055aa9928c743676b07617de878d0197a0d55b6e23c17",
+        "meta": {
+          "name": "Traverser #7",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "7"
+      },
+      {
+        "id": "0x0b25ef596202592c86bbdd344a3f8c93ce43f0e3a013dcbdc469a1cd1fb78311",
+        "meta": {
+          "name": "Traverser #8",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "8"
+      },
+      {
+        "id": "0x79dfadbc30f121f4e09e672a230a0422e84914e00b788c76923ee1d60653c74a",
+        "meta": {
+          "name": "Traverser #9",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "9"
+      },
+      {
+        "id": "0x498b058ec5554071c5505585c4a74faae20237929fcfeea2f451d9353a5be022",
+        "meta": {
+          "name": "Traverser #10",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "10"
+      },
+      {
+        "id": "0xf7d81d8749f8aaf7ae768bdb5dbd46fd8a6749fb35688ec173e8a048997e760d",
+        "meta": {
+          "name": "Traverser #11",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "11"
+      },
+      {
+        "id": "0x6bcb9bc34ae1661b208f0e3953c92153781720e2159ddaf1ccb219fa1de33b10",
+        "meta": {
+          "name": "Traverser #12",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "12"
+      },
+      {
+        "id": "0xffaf21a739d190956346ecc10e0f8665a39acba401286db6160b63a94549212d",
+        "meta": {
+          "name": "Traverser #13",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "13"
+      },
+      {
+        "id": "0xd455bc652d04d7ce20c5b4f613cd842e7831da8aee5d9af8fcf8abad5fb077ea",
+        "meta": {
+          "name": "Traverser #14",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "14"
+      },
+      {
+        "id": "0x3b6345a14daa0ae874a8faa036a01aa1ecf0645d7a18d1bcaad656f9f4ef5ad3",
+        "meta": {
+          "name": "Traverser #15",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "15"
+      },
+      {
+        "id": "0xb931b9c889e412b5a6cead1c4c8bab1d435b29378a85187dc3e9a5f924a3d2f0",
+        "meta": {
+          "name": "Traverser #16",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "16"
+      },
+      {
+        "id": "0x61fa99f44e3f638fd0ecb6046e7c6b7c20caae3dc10de5fe1493644e4a5a33c5",
+        "meta": {
+          "name": "Traverser #17",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "17"
+      },
+      {
+        "id": "0x081444639b638a1a42f7563ca1fad72d99f20390ba123d842a33e56b3b3a147b",
+        "meta": {
+          "name": "Traverser #18",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "18"
+      },
+      {
+        "id": "0x04687eade51d64dad3ffdd2bf7dfb9fb970af1fcba24a3739d3a6944432ac896",
+        "meta": {
+          "name": "Traverser #19",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "19"
+      },
+      {
+        "id": "0x946826b4b3dc81af011b26374615eab257acbffae6f9c67bef3f6b4ca5eaf720",
+        "meta": {
+          "name": "Traverser #20",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "20"
+      },
+      {
+        "id": "0x67badf1872bd8a18a41b4fd42bad2648a4081ea71b298020121ef037a8231e24",
+        "meta": {
+          "name": "Traverser #21",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "21"
+      },
+      {
+        "id": "0xd8217499530b05f1622c559195dcf2ae8c73be9c4cac1fb7e35511fe9bf4f861",
+        "meta": {
+          "name": "Traverser #22",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "22"
+      },
+      {
+        "id": "0x3d0b9a0a57795cbd04357adf63ea699a468e308eb5053f272fa4b47fe91d9d4b",
+        "meta": {
+          "name": "Traverser #23",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "23"
+      },
+      {
+        "id": "0x860c983a6587b751eb8ebb21fc309612c387b6e32f7a6165a97ad10076ecef85",
+        "meta": {
+          "name": "Traverser #24",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "24"
+      },
+      {
+        "id": "0x27e3ecb73d8fd23d4a71540638837abe1814704fdc13e4c0e6643ae01c7a89bb",
+        "meta": {
+          "name": "Traverser #25",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "25"
+      },
+      {
+        "id": "0xe6122e07d671c348643321c7f6b0dbbdfc202dad1ec3e6d4fd427ad746e2accd",
+        "meta": {
+          "name": "Traverser #26",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "26"
+      },
+      {
+        "id": "0xe756f5a41c10bb987df998cf48a27d98d448b6e3a30aacdfc26b5ebcdab85d74",
+        "meta": {
+          "name": "Traverser #27",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "27"
+      },
+      {
+        "id": "0x3c9be9f8c86fdbb522a042a075e70d82417601337cffaa7dadfd1e9716258397",
+        "meta": {
+          "name": "Traverser #28",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "28"
+      },
+      {
+        "id": "0xd70c29d8e7c4c23716a9b5cb55212ee3e8bad93aa3e9a13e39bc5cf4e65c836b",
+        "meta": {
+          "name": "Traverser #29",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "29"
+      },
+      {
+        "id": "0x67201e978e60e0f3436941044fbcb5854e5193528803dcd918c9aeb33ad684ba",
+        "meta": {
+          "name": "Traverser #30",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "30"
+      },
+      {
+        "id": "0x5179c31936a0be485b6a033a5103ff0034bf2344f7b4f5e8f204769bbee9b91d",
+        "meta": {
+          "name": "Traverser #31",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "31"
+      },
+      {
+        "id": "0xd96982dbd1679cead882926f2227b6b312e332c823947b183d0782c2c293609b",
+        "meta": {
+          "name": "Traverser #32",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "32"
+      },
+      {
+        "id": "0x2391a94323a1f759bd81cc7f9b9785d57c19592254969e25ab1ac48ddf3c5a47",
+        "meta": {
+          "name": "Traverser #33",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "33"
+      },
+      {
+        "id": "0x74894aa96b188c3a706b9754d19ead79511f44411d5648aead1f03f54b2aec8d",
+        "meta": {
+          "name": "Traverser #34",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "34"
+      },
+      {
+        "id": "0xffc4e81f8f84ec976b3ae38060b3f2905f1e6521b33e5a0a0d589c4d2cd4ee39",
+        "meta": {
+          "name": "Traverser #35",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "35"
+      },
+      {
+        "id": "0x1d2c776c3afd2b6c68662d5c154ba96e798db18ed2886e0fd5d6aff18f66cb63",
+        "meta": {
+          "name": "Traverser #36",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "36"
+      },
+      {
+        "id": "0x02ee15f6bf9ca5ad9ce688cd404fee86e12d331cce4d742ac94eb0865f4c4ffe",
+        "meta": {
+          "name": "Traverser #37",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "37"
+      },
+      {
+        "id": "0x3832c6962639168cac6dfbd157aa8ab348e18b6b34268e11eadb1defc8563d2d",
+        "meta": {
+          "name": "Traverser #38",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "38"
+      },
+      {
+        "id": "0xbd4809f00e9ba968dd3b76d3779cfd8876d35c77365302200c87e0f7aef5ef40",
+        "meta": {
+          "name": "Traverser #39",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "39"
+      },
+      {
+        "id": "0x4e34a5c6776d420de869dc006a39f046bf28ff5688f7d4502be9004b05bd8b32",
+        "meta": {
+          "name": "Traverser #40",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "40"
+      },
+      {
+        "id": "0x2ab338e4a16e29105ebc19267456f204906636540afb514585a071c18dc46196",
+        "meta": {
+          "name": "Traverser #41",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "41"
+      },
+      {
+        "id": "0x22a38ac4976dda289e23283bb906d1eb1613b997376f4cb62b8328488dd96681",
+        "meta": {
+          "name": "Traverser #42",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "42"
+      },
+      {
+        "id": "0x4b66ed8c3f5928ea46ef2b8d4e8a6c5929c5451c1a9b7226b1617685a9e98212",
+        "meta": {
+          "name": "Traverser #43",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "43"
+      },
+      {
+        "id": "0xee30e4268621eb20e82a2c368bc27697947682e529251ba1f4f1c4b52f7a21dd",
+        "meta": {
+          "name": "Traverser #44",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "44"
+      },
+      {
+        "id": "0x81281885495981762688e8e06b6d3a06022ac0f4101266773036410d195979f7",
+        "meta": {
+          "name": "Traverser #45",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "45"
+      },
+      {
+        "id": "0xa5be93531f57022e850f534cf6f6637bbab9947afd96069c323ee0d3dff3e3a6",
+        "meta": {
+          "name": "Traverser #46",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "46"
+      },
+      {
+        "id": "0x63b1b6ba2453b718561cc30f464ed40d87eb8d85c0380613d4de02eddd9c1db3",
+        "meta": {
+          "name": "Traverser #47",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "47"
+      },
+      {
+        "id": "0xb12a037da5adc726a9236692c9d6a8fb1d8dc636fbec8f3307b5c9d3ba83dd37",
+        "meta": {
+          "name": "Traverser #48",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "48"
+      },
+      {
+        "id": "0xc7423733eed345e1c3a0fd278fd3800fe7155c13a3c03aaa3fdfd0bd28bfdf20",
+        "meta": {
+          "name": "Traverser #49",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "49"
+      },
+      {
+        "id": "0xdbddf4d88cc0be0a98211a0843c5cd09d0c591456c5ca0e5a2eb50bea4809917",
+        "meta": {
+          "name": "Traverser #50",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "50"
+      },
+      {
+        "id": "0x99836410263ac0c05910d5d3c60cf473fb28ed7918b4c1ed4f15f148f8a745a2",
+        "meta": {
+          "name": "Traverser #51",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "51"
+      },
+      {
+        "id": "0x13efc61255aeb5f35379e4b4eb1d17bffc7a8ffa6b89488d86c714ff30e79fe0",
+        "meta": {
+          "name": "Traverser #52",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "52"
+      },
+      {
+        "id": "0xc5dd49960bd6d416c5d36c3a8c4a394f77e9e7199ac3726e8eb210d68d5e908f",
+        "meta": {
+          "name": "Traverser #53",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "53"
+      },
+      {
+        "id": "0x582764388eb381ece0ca4212a33ecfba0d4bdf6f5cb383e7a6dd6c5a374eab1d",
+        "meta": {
+          "name": "Traverser #54",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "54"
+      },
+      {
+        "id": "0xfb324acaf785192ce802cf28101e0f3457fe27376a47d410acff14446ce36217",
+        "meta": {
+          "name": "Traverser #55",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "55"
+      },
+      {
+        "id": "0xcf7b976f444a19dee9efc8054ef45c762903a5078e2d0970057e7490508280b5",
+        "meta": {
+          "name": "Traverser #56",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "56"
+      },
+      {
+        "id": "0xb11461543a28bc18269455ee1de595759d061baca29d0a79cfb91f51fa3d6fdd",
+        "meta": {
+          "name": "Traverser #57",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "57"
+      },
+      {
+        "id": "0x665e0606123861ef800c274485e29110b9999bfc4ece2cb2ffa30444491aa22d",
+        "meta": {
+          "name": "Traverser #58",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "58"
+      },
+      {
+        "id": "0x0f6c7947a8ba1a95d627d73c28ea962e62306acee4e8bb517b348ba01b0c4c6a",
+        "meta": {
+          "name": "Traverser #59",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "59"
+      },
+      {
+        "id": "0x62fc9b093f02a4dce94057199d00af1e3a84a2208482dc6f0ebdd5793f8a082b",
+        "meta": {
+          "name": "Traverser #60",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "60"
+      },
+      {
+        "id": "0x64e6b16e6f5bbebe575bf7264f730bb261247764088da521b6d2bc027546a6ac",
+        "meta": {
+          "name": "Traverser #61",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "61"
+      },
+      {
+        "id": "0x40e752ce8439ef5917fd6b87693c0827c3a072e2d29347a6f1a83b9c885d95ce",
+        "meta": {
+          "name": "Traverser #62",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "62"
+      },
+      {
+        "id": "0xf2189b7218e434e2c4f1a8f288a2f1a20f5b1a9d6305549c0b82f9100093c6a8",
+        "meta": {
+          "name": "Traverser #63",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "63"
+      },
+      {
+        "id": "0x41852e9eb715c66835a79bacaf5dd9f86b0b31b903670aafcd21bd6fde94e2b2",
+        "meta": {
+          "name": "Traverser #64",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "64"
+      },
+      {
+        "id": "0x07f1f7e3a3c1b682d43f08a0eef1be601a066d87f2283ca29da64b95faff6ae0",
+        "meta": {
+          "name": "Traverser #65",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "65"
+      },
+      {
+        "id": "0xecf2196b63f948575d1354c3f9bbb2d074fec45ad45f3e3c60f06ecda10da0d4",
+        "meta": {
+          "name": "Traverser #66",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "66"
+      },
+      {
+        "id": "0xce0049951c30ddd761fd45e36935bba24e6122094d56f963baafc3c232ec09ed",
+        "meta": {
+          "name": "Traverser #67",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "67"
+      },
+      {
+        "id": "0x9d371c0065acef6ba723822422df000c500a895634896925b5acd4279da8a48e",
+        "meta": {
+          "name": "Traverser #68",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "68"
+      },
+      {
+        "id": "0x1bc12f0d9bbe1cab40d6965536c059be40e478d9fcbed57fbc4b03ffa4896dbc",
+        "meta": {
+          "name": "Traverser #69",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "69"
+      },
+      {
+        "id": "0x97516b40e0016ef7b811ab341e99a475fe4c06068ed9f7c7dd17a4f3e4a61727",
+        "meta": {
+          "name": "Traverser #70",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "70"
+      },
+      {
+        "id": "0x282bf1ff4560300ff9b433dd19e07c8522daaf359c15be31ec9daf486e93165b",
+        "meta": {
+          "name": "Traverser #71",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "71"
+      },
+      {
+        "id": "0xf5b654fe833e80524a2cdaa948579e64c2b504356680269ab54af19e72666c86",
+        "meta": {
+          "name": "Traverser #72",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "72"
+      },
+      {
+        "id": "0xe481c6c3a06a5ea670e783642eff685f9d04db184322a60f912778b9e14fa4aa",
+        "meta": {
+          "name": "Traverser #73",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "73"
+      },
+      {
+        "id": "0xc86ad3817ae3d22d75055938a9dd1001b6342db36e80a6ed0583fe3581d4d9fd",
+        "meta": {
+          "name": "Traverser #74",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "74"
+      },
+      {
+        "id": "0xb225ac42d316968baaddedf5862f78f6fb025b778a1b362a250e4529e8ab23f8",
+        "meta": {
+          "name": "Traverser #75",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "75"
+      },
+      {
+        "id": "0x6ac54b19ec129c3c7d26952ba0d39baa03264357e5d4b506f1262e285c7f4482",
+        "meta": {
+          "name": "Traverser #76",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "76"
+      },
+      {
+        "id": "0xba8f4b0dd035bb17c571c28b2a18cbda787aa13bee5eb05ee5a59085ceec5c4a",
+        "meta": {
+          "name": "Traverser #77",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "77"
+      },
+      {
+        "id": "0x5d31a65b8a086fc5a0a0472277b494f46fbb12553f9bda2817f75fb3087c2bd7",
+        "meta": {
+          "name": "Traverser #78",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "78"
+      },
+      {
+        "id": "0xad47a0fa38d316fdaf1ab3a7f4369ff7aaf96c21877c6eab91fe40165f95bba1",
+        "meta": {
+          "name": "Traverser #79",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "79"
+      },
+      {
+        "id": "0x9bc3bc15f2a16d2ae3297707129469a24761ead8b65555760c1c5dc8ad1d6a1c",
+        "meta": {
+          "name": "Traverser #80",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "80"
+      },
+      {
+        "id": "0xd8835b396186fe2aaf79f1375fa4796b5b6d60e4c35d1b45120dd3425cf3e3e9",
+        "meta": {
+          "name": "Traverser #81",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "81"
+      },
+      {
+        "id": "0x9ead434d6d3b5d09bf06476d5ed7e9bdb9275114a07d3a554adf80f27c76ea10",
+        "meta": {
+          "name": "Traverser #82",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "82"
+      },
+      {
+        "id": "0x8fb5f4c7c1b1a690b9bbc4599e1188c8bae6aadf3d21c39343932311e86f7107",
+        "meta": {
+          "name": "Traverser #83",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "83"
+      },
+      {
+        "id": "0x273984e15f17a07d0677a7d3d94f652dfb57fd220acfd65d4afbfff18e6aeee9",
+        "meta": {
+          "name": "Traverser #84",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "84"
+      },
+      {
+        "id": "0x22e1be7226e368b11dcaa7c2aba8ed62fd9bd51e34a29111bac09fbdea59d2ef",
+        "meta": {
+          "name": "Traverser #85",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "85"
+      },
+      {
+        "id": "0xa92b0f2bd8160232c8083838fa3d52832a5916cea48d1e3665a34c99f4ba3a0f",
+        "meta": {
+          "name": "Traverser #86",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "86"
+      },
+      {
+        "id": "0x4b0adde0da160bc0cfafcdc567bc86589f3c537694d22a0eb1945b5a6c8a0053",
+        "meta": {
+          "name": "Traverser #87",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "87"
+      },
+      {
+        "id": "0xbcfd1745e83cbe52efd90a33c0c38b028d737fb91f5084e6ff0f428958fceef1",
+        "meta": {
+          "name": "Traverser #88",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "88"
+      },
+      {
+        "id": "0x52271e5a31034d821f2e49617933d616de49ea0c98ac46bbae482926fd796f7d",
+        "meta": {
+          "name": "Traverser #89",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "89"
+      },
+      {
+        "id": "0x1d7834418424112cf896db27efca92a8436b6f33a29689cc10365e0464ba7b51",
+        "meta": {
+          "name": "Traverser #90",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "90"
+      },
+      {
+        "id": "0x19ae64df8dd6f45a2832dcc3e0e82b8ba623e11ee583878ad6227b6a07f32cbd",
+        "meta": {
+          "name": "Traverser #91",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "91"
+      },
+      {
+        "id": "0xf55f1a5ab358dece9ad1fc89ea736031a696d8174776d7df371d103e9756db14",
+        "meta": {
+          "name": "Traverser #92",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "92"
+      },
+      {
+        "id": "0x3da4c893a0c53b257ba2b85f44c8187e892e9cdf7315c0ced031229e02a75904",
+        "meta": {
+          "name": "Traverser #93",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "93"
+      },
+      {
+        "id": "0xa13188d8ec44e0946ebea64d5e893688c9454f6292e61b9840114eeea4b87bf5",
+        "meta": {
+          "name": "Traverser #94",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "94"
+      },
+      {
+        "id": "0xb7cb5d2bf0bacaef06022c79bd28e2945099ac8623ae318d875f8b5ee1064f9d",
+        "meta": {
+          "name": "Traverser #95",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "95"
+      },
+      {
+        "id": "0x1b5d660fd61cd10d22289e5229850dca14a086804d7f67ce167b94496bce72e7",
+        "meta": {
+          "name": "Traverser #96",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "96"
+      },
+      {
+        "id": "0x892e9c79b273829f660bc60383e4c09c7507857eb8e078d1cc5eec42e054991c",
+        "meta": {
+          "name": "Traverser #97",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "97"
+      },
+      {
+        "id": "0xdc50c7255d2f0f7ba1dfeed5f5cfef3b5f0c76c38ae7affdcf1da8ca6e2820ef",
+        "meta": {
+          "name": "Traverser #98",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "98"
+      },
+      {
+        "id": "0x029c58f1af88196629d5a301d013931757a88daf460a8bf547a316d539b0839c",
+        "meta": {
+          "name": "Traverser #99",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "99"
+      },
+      {
+        "id": "0xe786e8776280e75fc5fc386b2a74e575dd02e8e3efce09ebd0d835ad9f43d4a8",
+        "meta": {
+          "name": "Traverser #100",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "100"
+      },
+      {
+        "id": "0x2f731fde4e15e331b1ff9e04f9d6716e9a9902676d3124e499346bd0ca363d3b",
+        "meta": {
+          "name": "Traverser #101",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "101"
+      },
+      {
+        "id": "0x30412de84fa1b7c3e4b699a54b197ba464268ef4243210bc447ba44006b34990",
+        "meta": {
+          "name": "Traverser #102",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "102"
+      },
+      {
+        "id": "0xa2a401d77cbbdab975935b835ee263333a1ef18a78f03f3c67dcc28137097d60",
+        "meta": {
+          "name": "Traverser #103",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "103"
+      },
+      {
+        "id": "0x055268ea4b97844de8641166f054c4fe45a1623c455a01d7ce751921b14a6d93",
+        "meta": {
+          "name": "Traverser #104",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "104"
+      },
+      {
+        "id": "0x521b1a73b4aa8b00c16fd70bd7a4e911ca9035dd6934a749d214dc743efb8cb5",
+        "meta": {
+          "name": "Traverser #105",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "105"
+      },
+      {
+        "id": "0xd364e751df0bc1910a59326e4518825f8b7b355d2c894fd6d6cdffc5453ce7d2",
+        "meta": {
+          "name": "Traverser #106",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "106"
+      },
+      {
+        "id": "0x2b27476f65baed22a5b890ebea3a3c3e1807579e260adec1707bbbf731415074",
+        "meta": {
+          "name": "Traverser #107",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "107"
+      },
+      {
+        "id": "0x797fdcab3552505a65694b632b21b916e3f4a1ac90683215a9a1ae195d04cf12",
+        "meta": {
+          "name": "Traverser #108",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "108"
+      },
+      {
+        "id": "0x1542ecc57114d44ecbaf3b0a3093c78b1b43ec8464ed243125f4e0e1b3949184",
+        "meta": {
+          "name": "Traverser #109",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "109"
+      },
+      {
+        "id": "0x7ac538cfcbefc4a000f71c62a73643ccff017e4d60f29e17dd8148a610d8805b",
+        "meta": {
+          "name": "Traverser #110",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "110"
+      },
+      {
+        "id": "0x9c70f49fd06a7c60ce6497157a621a638445e8cbf530fa1d1fba82f9222db22c",
+        "meta": {
+          "name": "Traverser #111",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "111"
+      },
+      {
+        "id": "0x92820619ccf2e34c5e917aaaba80f14f1f7947c89bdcc152a7d7e8dea1cd0a4e",
+        "meta": {
+          "name": "Traverser #112",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "112"
+      },
+      {
+        "id": "0xb35af2aa3bc4edd5aa35e04d2791f233d5d7da6f4ffaa90316fc593c1ae7f157",
+        "meta": {
+          "name": "Traverser #113",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "113"
+      },
+      {
+        "id": "0xe56a72830188708d395548672ca7e628758ee964adb058dd99f672d1a5b070c8",
+        "meta": {
+          "name": "Traverser #114",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "114"
+      },
+      {
+        "id": "0x1d9574c20150ca41309194ef67ed5d599cd96cd407eee231ea3ab6aa6deede3e",
+        "meta": {
+          "name": "Traverser #115",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "115"
+      },
+      {
+        "id": "0x8f8abcb1f6f878d4bc53f048d9561857cb27005467e3aca416da2ae2280ad59a",
+        "meta": {
+          "name": "Traverser #116",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "116"
+      },
+      {
+        "id": "0x7426596cf4d468cf242c7b43e1d302b1839d405885c1cc1504db8dfb1c3075da",
+        "meta": {
+          "name": "Traverser #117",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "117"
+      },
+      {
+        "id": "0x08e6e7605ea707c0d88191bc1834661e8ccb248b83c0128c89ebd1c91c4d41ef",
+        "meta": {
+          "name": "Traverser #118",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "118"
+      },
+      {
+        "id": "0x20c11fd0aff9ff85e3fa8de76cdaedde4b324d641be45009bf96a7eb3806bc49",
+        "meta": {
+          "name": "Traverser #119",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "119"
+      },
+      {
+        "id": "0x477b032a21deeea6be3a4d475ca46e9ec87c147d7cb8e319427b43de49bb967f",
+        "meta": {
+          "name": "Traverser #120",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "120"
+      },
+      {
+        "id": "0x536d5fb0aa9036be600688afea1c22c88a5aa39b12fbc655238ba9d567c3503a",
+        "meta": {
+          "name": "Traverser #121",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Traverser(Ethscription)"
+            }
+          ]
+        },
+        "number": "121"
+      }
+    ]
   }
 ]
