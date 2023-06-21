@@ -1,6 +1,6 @@
 {
   "name": "ethscriptionmetadata",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Metadata related to Ethscription collections",
   "main": "index.js",
   "scripts": {
