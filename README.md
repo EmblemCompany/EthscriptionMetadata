@@ -12,6 +12,10 @@ npm install ethscriptionmetadata
 import {EtherscriptionMetadata} from 'ethscriptionmetadata'
 ```
 
+## Add your collection
+
+`Using the template below, add your information to a new .json file and place it in the projects folder. `
+
 ## Template
 
 ```json
