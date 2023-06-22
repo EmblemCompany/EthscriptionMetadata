@@ -1,5 +1,7 @@
 # EthscriptionMetadata
 
+[![Build](https://github.com/EmblemCompany/EthscriptionMetadata/actions/workflows/build.yml/badge.svg)](https://github.com/EmblemCompany/EthscriptionMetadata/actions/workflows/build.yml)
+
 ## Install 
 
 ```bash
