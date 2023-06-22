@@ -4,8 +4,8 @@
   "description": "Metadata related to Ethscription collections",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node buildMetadata.js"
+    "test": "node ./scripts/testJson.js test ./projects/",
+    "build": "node ./scripts/buildMetadata.js"
   },
   "repository": {
     "type": "git",
