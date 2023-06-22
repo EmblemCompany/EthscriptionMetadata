@@ -1,0 +1,274 @@
+[
+    {
+        "name": "mooscriptions",
+        "inscription_icon": "0x64927e565dc9e8fb78ee0cfae2b26026087f6b4848b935a393982a28b3176c7b",
+        "supply": "20",
+        "slug": "mooscriptions",
+        "description": "20 hand drawn cows, forever etched into the blockchain",
+        "twitter_link": "https://twitter.com/0xEthie",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0xdd3fc2362bf467eb512dba6a2c23a44930bbe815c1b7251ba446805effd2d348",
+            "meta": {
+              "name": "mooscription #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0x9236688da5d4349ea4194ea9b8ce50c370c97c4bd40d397d39bf5fe4a5e22f57",
+            "meta": {
+              "name": "mooscription #2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0xac0702cd9829c3d26b5c42a32f044c1e5f9722e39aca59f2d4356b4c22f00765",
+            "meta": {
+              "name": "mooscription #3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0x0288cdae503208e6bb48c34cdbc8cb054f276529b3106dadbe92bfb04a1d05fe",
+            "meta": {
+              "name": "mooscription #4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x4f5960432a7bc7124f68b1225bcc52179f9e47b497ca1fa1a4ee24bdf09a4f99",
+            "meta": {
+              "name": "mooscription #5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0x805135abb5b495337e35992905427f08056431fcb9063d6797b34f70080a7b65",
+            "meta": {
+              "name": "mooscription #6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0x93747d0b20b05c8c557719dc9c263a50541d3dc39caf0819a7a81e54008687ed",
+            "meta": {
+              "name": "mooscription #7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "7"
+          },
+          {
+            "id": "0x554f069503c608a684e2544ca8c3ff018c65aafb6cacf6e1473abfed16dd6b06",
+            "meta": {
+              "name": "mooscription #8",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "8"
+          },
+          {
+            "id": "0xdd781b6c0f5399e6f470d39f3be460fe6ebdc3bba2169aef27fb7e8a87e2b7b4",
+            "meta": {
+              "name": "mooscription #9",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "9"
+          },
+          {
+            "id": "0x5e0650c68a34162e004731c578c82d99d541f76657870d0dbfe13d99eafcf64e",
+            "meta": {
+              "name": "mooscription #10",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "10"
+          },
+          {
+            "id": "0xf0e5cb87432adbcd97a43ec632b41131babc8bff6e270a9f9fa109f24299600e",
+            "meta": {
+              "name": "mooscription #11",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "11"
+          },
+          {
+            "id": "0xb8e16373a31db1997c2ea0614989a07a7ef72c66c4aa9b5a17f5324900c73f96",
+            "meta": {
+              "name": "mooscription #12",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "12"
+          },
+          {
+            "id": "0x5c3280c5917f37c2090dc924794fa0ecec4113225d11f1b870d2d3053796d462",
+            "meta": {
+              "name": "mooscription #13",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "13"
+          },
+          {
+            "id": "0x3747c5223ae5e88d41de93d6bf334bd35e2438964b6df9f708cf8d850c904912",
+            "meta": {
+              "name": "mooscription #14",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "14"
+          },
+          {
+            "id": "0x6fe87e70c99177e3fb451e43836092e642ca9e942df123c6d6201fc38a6f5dc2",
+            "meta": {
+              "name": "mooscription #15",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "15"
+          },
+          {
+            "id": "0x6b1c76e561a5319a9abdb33ffbde388888c3fdb48ed6a565ceb2ae50e46ce0a0",
+            "meta": {
+              "name": "mooscription #16",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "16"
+          },
+          {
+            "id": "0x4d08a5b4ef388d0212e61a3b3c1f574f9a876cb1d839936293368007bb6c220b",
+            "meta": {
+              "name": "mooscription #17",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "17"
+          },
+          {
+            "id": "0x1f79010be5ef47bb490a0a8645870a0ed9e029dbb4c6f27735771b9e1fec6e35",
+            "meta": {
+              "name": "mooscription #18",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "18"
+          },
+          {
+            "id": "0xeecd22c215cc14bb7626ed499f562e312c3aa04a4792cb2a6573d4c6cbd47cb4",
+            "meta": {
+              "name": "mooscription #19",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "19"
+          },
+          {
+            "id": "0x64927e565dc9e8fb78ee0cfae2b26026087f6b4848b935a393982a28b3176c7b",
+            "meta": {
+              "name": "mooscription #20",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "mooscriptions"
+                }
+              ]
+            },
+            "number": "20"
+          }
+        ]
+      }
+]

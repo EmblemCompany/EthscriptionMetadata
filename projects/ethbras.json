@@ -1,0 +1,339 @@
+[
+    {
+        "name": "Ethbras",
+        "inscription_icon": "0x1cc149fe21299a04e0d4557a3052a32a1d13862d6ea522f2a03cdc4f9d5a9f83",
+        "supply": "25",
+        "slug": "ethbras",
+        "description": "25 unique zebras inscribed on the Ethereum blockchain, one of the first original ethscription collections.",
+        "twitter_link": "",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0x52346d9cb2c8c45f23e0ff4c8a077003d5f91c7ee94b40627c38785e5bfefa38",
+            "meta": {
+              "name": "Ethbra #01",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "01"
+          },
+          {
+            "id": "0xb3c7d0f064a42e279f1897e7209804c7476266abad5aa4b01387f0f36d41df86",
+            "meta": {
+              "name": "Ethbra #02",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "02"
+          },
+          {
+            "id": "0xc9624a36eb6b5550b3389155c1849f0af93b5bf45d6c3f902e5868201b7c12e0",
+            "meta": {
+              "name": "Ethbra #03",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "03"
+          },
+          {
+            "id": "0x8c3d547ca11de121af666ff703dc041609accae4e2ee0170e47516d3291c5dcb",
+            "meta": {
+              "name": "Ethbra #04",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "04"
+          },
+          {
+            "id": "0xe6ac5ba4c89dd083071a2198df3f77da4da9ebf401f25127bb752b7ecb2f48b3",
+            "meta": {
+              "name": "Ethbra #05",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "05"
+          },
+          {
+            "id": "0x014f5cd1e8a91e450c899f3e66263b149e07435bc5a1affac01e3341a956dfa3",
+            "meta": {
+              "name": "Ethbra #06",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "06"
+          },
+          {
+            "id": "0xf1ae14fe45060699d569004759d955b4430af9e245eb6b794ec3733a75a11289",
+            "meta": {
+              "name": "Ethbra #07",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "07"
+          },
+          {
+            "id": "0xf8594ea75e239ae8aec2454c4fcb3aa5f341eec7a9ecfdbeb977630259ab69f5",
+            "meta": {
+              "name": "Ethbra #08",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "08"
+          },
+          {
+            "id": "0x81763efa2816270382dc2df1ff13f45c4158573edcf7820a88c84748979a1ee4",
+            "meta": {
+              "name": "Ethbra #09",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "09"
+          },
+          {
+            "id": "0x631eb900ac12646adc155779ee81a968c13d0873b6917e632e406a738aa134bf",
+            "meta": {
+              "name": "Ethbra #10",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "10"
+          },
+          {
+            "id": "0xff2f5c99cb6a438c497498752481282bda60ae7fab3e38014e61832e8571d7ed",
+            "meta": {
+              "name": "Ethbra #11",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "11"
+          },
+          {
+            "id": "0x44bf067aa0b1f69d3782e965d76e6afc2865891d6f0488008f5b10012ee226cf",
+            "meta": {
+              "name": "Ethbra #12",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "12"
+          },
+          {
+            "id": "0x5b2fb4ed32d63918c3793c43dc7476bb3aac8d67aefbba9a1b233c039da32091",
+            "meta": {
+              "name": "Ethbra #13",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "13"
+          },
+          {
+            "id": "0xb271ed4a03a65d59dac6889dd1fdae8545a643d8c496e93a04e7360b8c1a62f1",
+            "meta": {
+              "name": "Ethbra #14",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "14"
+          },
+          {
+            "id": "0xbf54a68955f66b5c8f9a5daabd485cb0690a32e695cfe84ce02e8ae34d2c41f8",
+            "meta": {
+              "name": "Ethbra #15",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "15"
+          },
+          {
+            "id": "0xe2c769f40fa75c8114f91dbdaafd9c5d00c4015d40b39550dbd5d09cfce077aa",
+            "meta": {
+              "name": "Ethbra #16",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "16"
+          },
+          {
+            "id": "0x9642b6970826f6dfa5d7cad8c87d9535589d852a278024d6a38d0aa15df6e3a4",
+            "meta": {
+              "name": "Ethbra #17",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "17"
+          },
+          {
+            "id": "0x16ad17f3435080c85948abdbfcbb70c08e72d5c24cb18b429b13c343b6647ed8",
+            "meta": {
+              "name": "Ethbra #18",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "18"
+          },
+          {
+            "id": "0x51672c3b77e45325e45a9fb248b59a8d36c9f7f7182b09134782a9df694eca7d",
+            "meta": {
+              "name": "Ethbra #19",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "19"
+          },
+          {
+            "id": "0x8f8728b117c7304c8da19c6255c65ed646c92929670c0eb682d0de4b5e293b80",
+            "meta": {
+              "name": "Ethbra #20",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "20"
+          },
+          {
+            "id": "0x71f81ebbae834f3f2869dc0c7bc25c07f2f5b1af558cbf1e947afb3d1b95664d",
+            "meta": {
+              "name": "Ethbra #21",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "21"
+          },
+          {
+            "id": "0x0453e4ada2d8d16e6ebc8a43a886c3dbcd48ea412d3bcbb8e3ed5a5d065b2866",
+            "meta": {
+              "name": "Ethbra #22",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "22"
+          },
+          {
+            "id": "0x3b014030660db72ba94bddae1950266f7a387e460486c573ef6ad23ef3cabb61",
+            "meta": {
+              "name": "Ethbra #23",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "23"
+          },
+          {
+            "id": "0x721fabad351bae8a0d2732c59375e68882def20b7aa8a173c8e002f7902a7a36",
+            "meta": {
+              "name": "Ethbra #24",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "24"
+          },
+          {
+            "id": "0x1cc149fe21299a04e0d4557a3052a32a1d13862d6ea522f2a03cdc4f9d5a9f83",
+            "meta": {
+              "name": "Ethbra #25",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethbras"
+                }
+              ]
+            },
+            "number": "25"
+          }
+        ]
+      }
+]

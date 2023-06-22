@@ -1,0 +1,911 @@
+[
+    {
+        "name": "Scribes",
+        "inscription_icon": "0x82fde79c7b7ad8c247725a4c6accae5b40cd1b26423998ab5db778709b3455fd",
+        "supply": "69",
+        "slug": "Scribes",
+        "description": "Deterministically generative 24x24 pixel art. 69 pieces. Seeds 1-69.",
+        "twitter_link": "https://twitter.com/jon_hq",
+        "discord_link": "https://discord.gg/VMCqwcNMTg",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0x1fedb94b057ca31cdbacfe2dfa40297f93004f7ce102c5f86ea900e84918a971",
+            "meta": {
+              "name": "Scribes #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0xdbd17fa18d74baf81b389d7cfaa7168667b2fb4e01d9a6dba2163d1404ec2755",
+            "meta": {
+              "name": "Scribes #2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0x7f920d0847e51394971ed05d8ea416f7e17d71a0da319e136f46b5d87f12d22e",
+            "meta": {
+              "name": "Scribes #3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0xb40b03430c923ecce15b72d76a0b3701ad4595b4cf3db1148c74548d65f40be6",
+            "meta": {
+              "name": "Scribes #4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x62a2bf3fe197cbab63c629699cc1cbc7be9fc2c9ca832fcadc3bd0500b3db7c3",
+            "meta": {
+              "name": "Scribes #5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0x646597d43c4f84d084285329877399752af0751c6b21aae98f8e4e0c15fdfb57",
+            "meta": {
+              "name": "Scribes #6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0xb962457da43a5636e00b20c3fa73f224c0de627572168bcbd5956a8415b5a90a",
+            "meta": {
+              "name": "Scribes #7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "7"
+          },
+          {
+            "id": "0x413c4d80e1118c75a3504f23d112c48150e7894cdf5385c7cc1abf458a7d1e6f",
+            "meta": {
+              "name": "Scribes #8",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "8"
+          },
+          {
+            "id": "0xf7fec699dce054c31c3da24093f6ae8b669a599c06abc8feaf476d2f1a78d5b8",
+            "meta": {
+              "name": "Scribes #9",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "9"
+          },
+          {
+            "id": "0x324efc4c0a48850f47f548bebc1307aa03604535c759e1725dcbe8177f942cc3",
+            "meta": {
+              "name": "Scribes #10",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "10"
+          },
+          {
+            "id": "0x11d2107eed832512e17d376f511863c3d9d7381936b390b8393bfb73676ae304",
+            "meta": {
+              "name": "Scribes #11",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "11"
+          },
+          {
+            "id": "0xb4924a65b9e26b2b74766137c6fc7fd9b1466095689c00fedef3b561ff398844",
+            "meta": {
+              "name": "Scribes #12",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "12"
+          },
+          {
+            "id": "0xf2137ba08d783ff54c2642442d04e87bc511128652bf2c53a3fefd212d94ec93",
+            "meta": {
+              "name": "Scribes #13",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "13"
+          },
+          {
+            "id": "0x569f5ca3746b9a56ff148abfcc1a3f89300ed2bcc0df24172fd0e084a83bd182",
+            "meta": {
+              "name": "Scribes #14",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "14"
+          },
+          {
+            "id": "0x18d0376e594edbbc1bb9190964c3ab72e0ad53deb779b3ee1e4222387c0fec39",
+            "meta": {
+              "name": "Scribes #15",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "15"
+          },
+          {
+            "id": "0x66006c19b4813cd46aa2ba4908e291057eee255e69631c2f2719d48b900120af",
+            "meta": {
+              "name": "Scribes #16",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "16"
+          },
+          {
+            "id": "0x78dd08014c88ef072e023cb084e2fb4530480794af45a3beedee89d2c2f27a04",
+            "meta": {
+              "name": "Scribes #17",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "17"
+          },
+          {
+            "id": "0x5870fc79d462fdaa0583859d4447e057aa72c96d1ec2f5c3ff6d8c36881d9228",
+            "meta": {
+              "name": "Scribes #18",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "18"
+          },
+          {
+            "id": "0xdb7d3b2d21a65c484038f5f05becd8e89b5ebfe36c516eb29cfa7bf90ac6658c",
+            "meta": {
+              "name": "Scribes #19",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "19"
+          },
+          {
+            "id": "0xf8e0cde45138537a332fd7e8a4b99908252ba89622f62bf4edfb3ebbd2c34c08",
+            "meta": {
+              "name": "Scribes #20",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "20"
+          },
+          {
+            "id": "0xf964da9f328b355beeb9e048313775f6a81fc3cef95bb06a28b9823fdf03c186",
+            "meta": {
+              "name": "Scribes #21",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "21"
+          },
+          {
+            "id": "0x57db55e06e18c757fbcf9acca9db1b5caa798ebd9ab0cea53d276483d194805d",
+            "meta": {
+              "name": "Scribes #22",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "22"
+          },
+          {
+            "id": "0x004fcda05a4b33cb4460a7424cb3936c74b0f742225bc979cf08dce2247f059f",
+            "meta": {
+              "name": "Scribes #23",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "23"
+          },
+          {
+            "id": "0xed07ff4fe92d31f74db4dea4645e4d829f545b48f7b3c55de0ce90b7a8a5020c",
+            "meta": {
+              "name": "Scribes #24",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "24"
+          },
+          {
+            "id": "0x104ec7e5c79251a533dcdda668970f7fccc75d5fd76a1ceccdd5312f75714483",
+            "meta": {
+              "name": "Scribes #25",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "25"
+          },
+          {
+            "id": "0x1791a9e81eed23ed36b5871a17d64badb75493ee6f9db7cbfa8383e638cec02d",
+            "meta": {
+              "name": "Scribes #26",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "26"
+          },
+          {
+            "id": "0x4e27fbb1efa7961b8699ad4d659f9d06efd2185086a0d68e2553ed9e9d72ce28",
+            "meta": {
+              "name": "Scribes #27",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "27"
+          },
+          {
+            "id": "0x1442bbabbdba7e2004879c0a390ed79ca818aaee58d2f3fa30cdb17e503b886a",
+            "meta": {
+              "name": "Scribes #28",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "28"
+          },
+          {
+            "id": "0x80cb37764fd8fee013bf522f5cfff0505c8bd7328802bb6aafb12ac776931aaa",
+            "meta": {
+              "name": "Scribes #29",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "29"
+          },
+          {
+            "id": "0x0f8baa8d32226e1dfa9b66cc6718afd88216be06d32e75af22d831b55a8e564d",
+            "meta": {
+              "name": "Scribes #30",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "30"
+          },
+          {
+            "id": "0x62fd6d776829603473b638cbf610da8a985a671b81cee32703f26c0a71e7fb49",
+            "meta": {
+              "name": "Scribes #31",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "31"
+          },
+          {
+            "id": "0x703594b8dc8463f841c21e44871b301012df3e38b52f5f2b58bdb4918746b826",
+            "meta": {
+              "name": "Scribes #32",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "32"
+          },
+          {
+            "id": "0x06180ef948d8031f70fc8cdc3e0b3981cf356a3823562debcbf86a5e892375e7",
+            "meta": {
+              "name": "Scribes #33",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "33"
+          },
+          {
+            "id": "0x243eb23c09991618d4a6df25b5fe1ffa4b5f17749e23d8d13956b9a843225379",
+            "meta": {
+              "name": "Scribes #34",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "34"
+          },
+          {
+            "id": "0x70dddf1d913be20dde95cf8911209c0b97714d278eb624a0da3a43a7540e4323",
+            "meta": {
+              "name": "Scribes #35",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "35"
+          },
+          {
+            "id": "0x9ed6a9c45b94e2cb132dec8c9c2ed0066e47da37d4fce5919ed19f25f8ebd956",
+            "meta": {
+              "name": "Scribes #36",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "36"
+          },
+          {
+            "id": "0x1cdcfb421d4cc6048d94ad313523145cf5157d255cde9043b5696832775dfca5",
+            "meta": {
+              "name": "Scribes #37",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "37"
+          },
+          {
+            "id": "0x595b0a6fadb73fb047e8fa026b6d4aac48932dbafc61f9d8122b6bbf47ca3f8f",
+            "meta": {
+              "name": "Scribes #38",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "38"
+          },
+          {
+            "id": "0xb17f41a7b1d052fa47c19611488f3b0070b7812917fed561a5ab7c0b5010dbb1",
+            "meta": {
+              "name": "Scribes #39",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "39"
+          },
+          {
+            "id": "0xb87cdfb4a676f66809fa8bb0d822fa94fc509c43b42cc7b26142229d2bb3555d",
+            "meta": {
+              "name": "Scribes #40",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "40"
+          },
+          {
+            "id": "0x17c7d5ede3fa3fb1dc9c0155f0ec86829161590e90e0d8af1d5f388614f131b9",
+            "meta": {
+              "name": "Scribes #41",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "41"
+          },
+          {
+            "id": "0x27b8f21949a4a0c9910ccf632d62a046b028d4b3f78a6028c0c4b95b26de4c91",
+            "meta": {
+              "name": "Scribes #42",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "42"
+          },
+          {
+            "id": "0x542d3f28863068f7d2bb88740f78c9cd6cb7af661d22bb9e7c4e475ae1b5ab23",
+            "meta": {
+              "name": "Scribes #43",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "43"
+          },
+          {
+            "id": "0x2d1a61c51251dc765462979e49bd8570199452bb0c8f92bb48328bb21ecb2cc8",
+            "meta": {
+              "name": "Scribes #44",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "44"
+          },
+          {
+            "id": "0x8685a13f34fbe39ba3f852425c523d043c403467724f3655f00c8d2ebc3d215e",
+            "meta": {
+              "name": "Scribes #45",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "45"
+          },
+          {
+            "id": "0xd7dc670a5a18f91d05fa1ed4650330bc7d750b653c124f9101db4e802f632844",
+            "meta": {
+              "name": "Scribes #46",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "46"
+          },
+          {
+            "id": "0xf4633ae93679f447aa38513518a24c8046e42fa9bbf0b9e5b03b2da60f736742",
+            "meta": {
+              "name": "Scribes #47",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "47"
+          },
+          {
+            "id": "0xebbcae14f560d75c6db009ae523e6feed5a83aa154ed15dadb8cee948b24aea4",
+            "meta": {
+              "name": "Scribes #48",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "48"
+          },
+          {
+            "id": "0x2ce44868b8e9de47781484c2fc0cc2cbb2e73f300450d06783d54aa893bad34d",
+            "meta": {
+              "name": "Scribes #49",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "49"
+          },
+          {
+            "id": "0x53cbbace209eaf9c909b73d33a206bcb0b6e1a3a2e6b8dbc620bdeb57932fe19",
+            "meta": {
+              "name": "Scribes #50",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "50"
+          },
+          {
+            "id": "0x58eec5f49938e5c2c885cec8a0e4bf3b0ffb96220050b49cd42a4a06cfaa7ca5",
+            "meta": {
+              "name": "Scribes #51",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "51"
+          },
+          {
+            "id": "0x47d043e26240ac30a438de481cd104b94bc2c05cba8b95d4b04ca406a86d5b50",
+            "meta": {
+              "name": "Scribes #52",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "52"
+          },
+          {
+            "id": "0x5ccf8fa3e96100517efe4e41bd56d90339627a6a36a95e31c0735feb44798b4c",
+            "meta": {
+              "name": "Scribes #53",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "53"
+          },
+          {
+            "id": "0x8e853fe5b248bd90edf8747b24bbd9edb0b2f59059c937bda96c1f4f374abb31",
+            "meta": {
+              "name": "Scribes #54",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "54"
+          },
+          {
+            "id": "0x0766a6af64f0f603794be5d0dd748093883cb9ae7e42030a05600d8cb3298541",
+            "meta": {
+              "name": "Scribes #55",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "55"
+          },
+          {
+            "id": "0x2dcd1710ab3d4258eb75e58d5df7f1598bfff511de2bc2da659c3baa94a25dfa",
+            "meta": {
+              "name": "Scribes #56",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "56"
+          },
+          {
+            "id": "0x9e9fd1392d0c3f00bc341e9021c53421c9756d210c89a418bb1cacd79ba550ba",
+            "meta": {
+              "name": "Scribes #57",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "57"
+          },
+          {
+            "id": "0x99dcf613f4b1767977bdcf2681736c0287591697ac9ccc4901001097014ea945",
+            "meta": {
+              "name": "Scribes #58",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "58"
+          },
+          {
+            "id": "0x4c36e9791ce389e1fcc686c53db63f7af1e21b2e2a977bbaa6eb528c178d1cb3",
+            "meta": {
+              "name": "Scribes #59",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "59"
+          },
+          {
+            "id": "0xdc11b96a82735f8fbe01232947b2c2606827c9e7eac32792c2d90b4b6eee1068",
+            "meta": {
+              "name": "Scribes #60",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "60"
+          },
+          {
+            "id": "0xec22a7895bc31d6b9413c291dcb7b74012e494e0f47d4523bd17cc31810f60ba",
+            "meta": {
+              "name": "Scribes #61",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "61"
+          },
+          {
+            "id": "0xe3923a690c9642a9ce874d9cb784dd3807806ed09b63bd484fc19d42e3f14da6",
+            "meta": {
+              "name": "Scribes #62",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "62"
+          },
+          {
+            "id": "0x244ffa5de9a70658dceb6d7fdaa2dfc187893f3b704096fb1af36487d3478c6d",
+            "meta": {
+              "name": "Scribes #63",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "63"
+          },
+          {
+            "id": "0x42cc73be7f60540b91c30af43400da748ba6fa0a5b0659582fa7425d630f0dae",
+            "meta": {
+              "name": "Scribes #64",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "64"
+          },
+          {
+            "id": "0xc22ef22fe0627d178f7f5bddadf8514e6fb18653ea418b9a21d39158120c7fec",
+            "meta": {
+              "name": "Scribes #65",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "65"
+          },
+          {
+            "id": "0x5f03a5c81deefdc22de4d8d13252d3b2738173798efbbda8d45a832921e97e3d",
+            "meta": {
+              "name": "Scribes #66",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "66"
+          },
+          {
+            "id": "0x619943bd414612bb439985c8c80f994a8c13efc2fe9768b2f0928cebb26fb953",
+            "meta": {
+              "name": "Scribes #67",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "67"
+          },
+          {
+            "id": "0x0a604cb5b6ac29c9f170ad96f0bf2aed7642febed2e9040b6baa617b0268188a",
+            "meta": {
+              "name": "Scribes #68",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "68"
+          },
+          {
+            "id": "0x82fde79c7b7ad8c247725a4c6accae5b40cd1b26423998ab5db778709b3455fd",
+            "meta": {
+              "name": "Scribes #69",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Scribes"
+                }
+              ]
+            },
+            "number": "69"
+          }
+        ]
+      }
+]

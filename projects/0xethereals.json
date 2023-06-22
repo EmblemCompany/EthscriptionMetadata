@@ -1,0 +1,222 @@
+[
+    {
+        "name": "0xEthereals",
+        "inscription_icon": "0xaa41dc8c1e8b8cbba347924646a2a9189c32fb2203cfceac703c0bee86ad380a",
+        "supply": "16",
+        "slug": "0xethereals",
+        "description": "16 unique 16x16 Pixel Goddesses living on-chain inside Ethereum calldata. Timeless. Eternal. Rare.",
+        "twitter_link": "https://twitter.com/0xEthereals",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0xbdd3b1cee845665d39ace0acc3d1cbbc99d1c54787548122f1d9220997872f33",
+            "meta": {
+              "name": "0xEthereal #0",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "0"
+          },
+          {
+            "id": "0xc899c6134bf57509625433a364308f58e01955d5426d815ece2c1fc204ea481b",
+            "meta": {
+              "name": "0xEthereal #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0xbb825d8964923c04ea2b7bac2d071acac5af94b267c4995b230b0a7bcf24f77b",
+            "meta": {
+              "name": "0xEthereal #2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0x58a7732d0b6f62061d01f070c5c8ee2e210a6b3e38eaef8da43fd0385347f381",
+            "meta": {
+              "name": "0xEthereal #3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0xe341274a36ababb65cfd7ba3d437864b2d445737ddd6a7bf5cec28cb422ae1f5",
+            "meta": {
+              "name": "0xEthereal #4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x9b068349dbb36f0cd58de5e9ab2f1077270181b705134182411a284b038652fa",
+            "meta": {
+              "name": "0xEthereal #5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0x83d3ff85d942c2fcf7840fb5aed4928f1eb448f9d4fb1caeaab2ebc405315698",
+            "meta": {
+              "name": "0xEthereal #6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0x8c2445c1e4a11f7b4f4f4598cdb863c19509bba854ab8fb0fb24b278886059b5",
+            "meta": {
+              "name": "0xEthereal #7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "7"
+          },
+          {
+            "id": "0xbe765d180b01e2e5ab451e4b974b584ea96c1470c05a1ffa77d1aa856f45cd28",
+            "meta": {
+              "name": "0xEthereal #8",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "8"
+          },
+          {
+            "id": "0xf4e7ba81909f7f0cf47ee807c08b1e7ce440aa4cbc7d03c4a25341a8b1976d6a",
+            "meta": {
+              "name": "0xEthereal #9",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "9"
+          },
+          {
+            "id": "0x34450f6dbfaa8b4ac85e17510d556a5d865539fa0162687b63469c36aa20e029",
+            "meta": {
+              "name": "0xEthereal #A",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "10"
+          },
+          {
+            "id": "0x2737c8530b94aefa99bb5bc41ffc1fbdff6467328f6d952df29e38a8ea02db3e",
+            "meta": {
+              "name": "0xEthereal #B",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "11"
+          },
+          {
+            "id": "0xe54aeeadcf113a69bec99fc3da22c70bc67518ba9d217fad620659853d6ff2b9",
+            "meta": {
+              "name": "0xEthereal #C",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "12"
+          },
+          {
+            "id": "0xd2861f33d21e588480d9ad2694df999642f6a377897e1f7636ad5209896fb10f",
+            "meta": {
+              "name": "0xEthereal #D",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "13"
+          },
+          {
+            "id": "0xaa41dc8c1e8b8cbba347924646a2a9189c32fb2203cfceac703c0bee86ad380a",
+            "meta": {
+              "name": "0xEthereal #E",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "14"
+          },
+          {
+            "id": "0xa218220eab148f385c7dc715053d3d23e7097effcea3ab6888157229d0389e54",
+            "meta": {
+              "name": "0xEthereal #F",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "0xEthereals"
+                }
+              ]
+            },
+            "number": "15"
+          }
+        ]
+      }
+]

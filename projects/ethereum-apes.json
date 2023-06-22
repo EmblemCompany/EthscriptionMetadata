@@ -1,0 +1,274 @@
+[
+    {
+        "name": "Ethereum Apes Genesis",
+        "inscription_icon": "0x9cd85b25307e3804aec681d21d7e712114796ce708562f6177d67672cb2b19e4",
+        "supply": "20",
+        "slug": "ethereumapes",
+        "description": "20 unique 1/1 Apes on Ethereum. Were born long ago and finaly came home. This is Genesis collection. All holders will get whitelist for gen2 and gen3",
+        "twitter_link": "https://twitter.com/richirokez",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0x9cd85b25307e3804aec681d21d7e712114796ce708562f6177d67672cb2b19e4",
+            "meta": {
+              "name": "Ethereum Ape #0",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "0"
+          },
+          {
+            "id": "0xf0aed75e27f226b31c910bdcaa2eebd23af7244d577b0fdf0fa0fff3f8d5dddc",
+            "meta": {
+              "name": "Ethereum Ape #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0xb53355e9741aff666fc3815663a047201b14638795f1c5e3a65b47f6cf31dd78",
+            "meta": {
+              "name": "Ethereum Ape #2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0x5ef58730fedc9efab86d2c6ce102c730fd380406428b8f6a1d250311f93813e2",
+            "meta": {
+              "name": "Ethereum Ape #3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0x6849c897d4e68f9258eb435adc324f4d98e819412fa9c0f379c7937721ee6293",
+            "meta": {
+              "name": "Ethereum Ape #4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x4aa802c979ddd798e1b41016ab0150344f1fb406b7ae818ef8b52340d85d1a2a",
+            "meta": {
+              "name": "Ethereum Ape #5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0xba00193519a6f19e11ec9d3787dbebbe9aaa497c0a6692d55c2e9df08913e042",
+            "meta": {
+              "name": "Ethereum Ape #6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0x3b2d9ffe76fbc883e991be2d88468629f77484f9d99d54386a1322489a5fdb2a",
+            "meta": {
+              "name": "Ethereum Ape #7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "7"
+          },
+          {
+            "id": "0x1105fe62dd219b46d70a7d675f52c8d0303901644fbffaa8ffe96fd78e782b89",
+            "meta": {
+              "name": "Ethereum Ape #8",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "8"
+          },
+          {
+            "id": "0xd3b728c84c77284eebd4f7ea44792232f80e332730772d88b1e219f26d5708bd",
+            "meta": {
+              "name": "Ethereum Ape #9",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "9"
+          },
+          {
+            "id": "0xacda55ad2b354b75925ea88cb2efdcf211e961b11884d4d472039b702f2f0014",
+            "meta": {
+              "name": "Ethereum Ape #10",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "10"
+          },
+          {
+            "id": "0x606ba6d6ccc9264ec71ec7295961d7a64cf5f78e03daf0becf9621b2ab7142a8",
+            "meta": {
+              "name": "Ethereum Ape #11",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "11"
+          },
+          {
+            "id": "0x788d86740a86c163af74dd23378b9d196f9f3632d98ae0c05e24d6d264b068e4",
+            "meta": {
+              "name": "Ethereum Ape #12",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "12"
+          },
+          {
+            "id": "0xeb20915a46e98caee0426db8a09a7843ebb2f4a3e07521ae8a6e442636ebb4db",
+            "meta": {
+              "name": "Ethereum Ape #13",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "13"
+          },
+          {
+            "id": "0xd88d2eb073f79322491e542e932f6ef0475c93a625b986764d1ed304695e8edd",
+            "meta": {
+              "name": "Ethereum Ape #14",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "14"
+          },
+          {
+            "id": "0x40abe8a91d891712cdfcce6aa7ca4396b4a07eb1a11eaf9096cbf1515dbe6571",
+            "meta": {
+              "name": "Ethereum Ape #15",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "15"
+          },
+          {
+            "id": "0x0930f23540fafc5882e5af49794a9a56962dac900ccb16bb9d4f63bb0a34e6a5",
+            "meta": {
+              "name": "Ethereum Ape #16",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "16"
+          },
+          {
+            "id": "0x41f8a41a4cef5b58606c5b16a3fe4492b6808f3669c36b4cec32841ccb7d2ca8",
+            "meta": {
+              "name": "Ethereum Ape #17",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "17"
+          },
+          {
+            "id": "0xa5a7c28d162b3aba977344dc435f062fe50ab5fc39da8f1c311fa6aae50c5bf6",
+            "meta": {
+              "name": "Ethereum Ape #18",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "18"
+          },
+          {
+            "id": "0x64a7a48796f2dbe19ad76c21e299962ccf1747e67397cc8643c008abe8901b1f",
+            "meta": {
+              "name": "Ethereum Ape #19",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ethereum Apes Genesis"
+                }
+              ]
+            },
+            "number": "19"
+          }
+        ]
+      }
+]

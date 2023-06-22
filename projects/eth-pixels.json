@@ -1,0 +1,105 @@
+[
+    {
+        "name": "EthPixels",
+        "inscription_icon": "0xac0283bab5462aedcf492bd1aa482ccd0bd872fb4a559f48c6331a76e50be6a2",
+        "supply": "7",
+        "slug": "EthPixels",
+        "description": "First complete art collection on ethscriptions. Range #77-#84",
+        "twitter_link": "https://twitter.com/nishseq",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+          {
+            "id": "0xac0283bab5462aedcf492bd1aa482ccd0bd872fb4a559f48c6331a76e50be6a2",
+            "meta": {
+              "name": "EthPixels #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0x4fca345de6321ff8b14443fa486be8bd096f4bf15c7b446db56a842a1b668c15",
+            "meta": {
+              "name": "EthPixels #2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0xa036c191f6a4373b49f1adc81c271ce6e8a69010c9246ca52b06c6318bff3c31",
+            "meta": {
+              "name": "EthPixels #3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0x5f935e225bc5b2ed4801d20069c5cdb57b5eaecfe2a4a4757d9ac16e74ede5f5",
+            "meta": {
+              "name": "EthPixels #4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x071de04ef046bc34b598abf0b8df9ece030c2d3c9b779098a09b76121faa90eb",
+            "meta": {
+              "name": "EthPixels #5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0xa72407f09fc99a9889a0d413b1615ac8f84fd8a6d7a3ad5949db1bde6446e6ff",
+            "meta": {
+              "name": "EthPixels #6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0xf38149cb890cabb7f71af9e26dc27e9f1d9a51e73abb835d716c57d9a49a3840",
+            "meta": {
+              "name": "EthPixels #7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "EthPixels"
+                }
+              ]
+            },
+            "number": "7"
+          }
+        ]
+      }
+]
