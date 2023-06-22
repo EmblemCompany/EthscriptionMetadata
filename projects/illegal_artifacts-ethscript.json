@@ -1,181 +1,183 @@
-{
-    "name": "Illegal Artifact",
-    "inscription_icon": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
-    "supply": "50",
-    "slug": "illegal-artifact",
-    "description": "A collection of 12 artifacts as base64 and hex encoded as Ethscriptions",
-    "twitter_link": "",
-    "discord_link": "",
-    "website_link": "",
-    "inscriptions": [
-        {
-            "id": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
-            "meta": {
-                "name": "Illegal Artifact #0",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+[
+    {
+        "name": "Illegal Artifact",
+        "inscription_icon": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
+        "supply": "50",
+        "slug": "illegal-artifact",
+        "description": "A collection of 12 artifacts as base64 and hex encoded as Ethscriptions",
+        "twitter_link": "",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+            {
+                "id": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
+                "meta": {
+                    "name": "Illegal Artifact #0",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 0
             },
-            "number": 0
-        },
-        {
-            "id": "0x032c62678cadeb8fc6b1128fa3075ba668b4656c4e1472366d330174dc50d6de",
-            "meta": {
-                "name": "Illegal Artifact #1",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x032c62678cadeb8fc6b1128fa3075ba668b4656c4e1472366d330174dc50d6de",
+                "meta": {
+                    "name": "Illegal Artifact #1",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 1
             },
-            "number": 1
-        },
-        {
-            "id": "0x38a097eaa2ba3666680424603574ff051fb969025aa75ab8294217a8c72b908c",
-            "meta": {
-                "name": "Illegal Artifact #2",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x38a097eaa2ba3666680424603574ff051fb969025aa75ab8294217a8c72b908c",
+                "meta": {
+                    "name": "Illegal Artifact #2",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 2
             },
-            "number": 2
-        },
-        {
-            "id": "0x8e3422c2b5937477a8cfb6bda805f115d6a636cfd2c400360ef896fff02ac2f1",
-            "meta": {
-                "name": "Illegal Artifact #3",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x8e3422c2b5937477a8cfb6bda805f115d6a636cfd2c400360ef896fff02ac2f1",
+                "meta": {
+                    "name": "Illegal Artifact #3",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 3
             },
-            "number": 3
-        },
-        {
-            "id": "0x875d3274d7171fe42d46987fa133c099c1cae032e43d02155e273fb6968a2c46",
-            "meta": {
-                "name": "Illegal Artifact #4",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x875d3274d7171fe42d46987fa133c099c1cae032e43d02155e273fb6968a2c46",
+                "meta": {
+                    "name": "Illegal Artifact #4",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 4
             },
-            "number": 4
-        },
-        {
-            "id": "0x9ab0918e101773be040a886fb43131e51a4b897f5ce389fec4fcaf0dc2474ac2",
-            "meta": {
-                "name": "Illegal Artifact #5",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x9ab0918e101773be040a886fb43131e51a4b897f5ce389fec4fcaf0dc2474ac2",
+                "meta": {
+                    "name": "Illegal Artifact #5",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 5
             },
-            "number": 5
-        },
-        {
-            "id": "0x5f3678f556fc009a2d14d5acb4c054753d4199b4b0faa345d374488f57048eff",
-            "meta": {
-                "name": "Illegal Artifact #6",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x5f3678f556fc009a2d14d5acb4c054753d4199b4b0faa345d374488f57048eff",
+                "meta": {
+                    "name": "Illegal Artifact #6",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 6
             },
-            "number": 6
-        },
-        {
-            "id": "0xca921edddf6c5e25cb57c50374195dad5b2f4ee71f1dbebca89d58b383d6d70a",
-            "meta": {
-                "name": "Illegal Artifact #7",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0xca921edddf6c5e25cb57c50374195dad5b2f4ee71f1dbebca89d58b383d6d70a",
+                "meta": {
+                    "name": "Illegal Artifact #7",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 7
             },
-            "number": 7
-        },
-        {
-            "id": "0xf9bc5d56637de39b6f92b442c649f4b4e40729e277e69f0cce2529c5fdb64807",
-            "meta": {
-                "name": "Illegal Artifact #8",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0xf9bc5d56637de39b6f92b442c649f4b4e40729e277e69f0cce2529c5fdb64807",
+                "meta": {
+                    "name": "Illegal Artifact #8",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 8
             },
-            "number": 8
-        },
-        {
-            "id": "0x1e8a0b13c4a64e9db88afdf28805caeb7d3e54fc093a496f6185fe19ce648f90",
-            "meta": {
-                "name": "Illegal Artifact #9",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x1e8a0b13c4a64e9db88afdf28805caeb7d3e54fc093a496f6185fe19ce648f90",
+                "meta": {
+                    "name": "Illegal Artifact #9",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 9
             },
-            "number": 9
-        },
-        {
-            "id": "0x2ace83f1f708e36c1395de6dbcb64d1b7d2a5aabc87abb5ba9bbb2ad2ba5f411",
-            "meta": {
-                "name": "Illegal Artifact #10",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0x2ace83f1f708e36c1395de6dbcb64d1b7d2a5aabc87abb5ba9bbb2ad2ba5f411",
+                "meta": {
+                    "name": "Illegal Artifact #10",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 10
             },
-            "number": 10
-        },
-        {
-            "id": "0xb20543fef05ba29c17a735d074920c4e401a30e17882b452de1add956e7ba51e",
-            "meta": {
-                "name": "Illegal Artifact #11",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
+            {
+                "id": "0xb20543fef05ba29c17a735d074920c4e401a30e17882b452de1add956e7ba51e",
+                "meta": {
+                    "name": "Illegal Artifact #11",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 11
             },
-            "number": 11
-        },
-        {
-            "id": "0x236fea5b92a7f6baba5672a23fc7b65c870eb292578dc8ccedbf1aec9641edc5",
-            "meta": {
-                "name": "Illegal Artifact #12",
-                "attributes": [
-                    {
-                        "trait_type": "collection",
-                        "value": "Illegal Artifact"
-                    }
-                ]
-            },
-            "number": 12
-        }
-    ]
-}
+            {
+                "id": "0x236fea5b92a7f6baba5672a23fc7b65c870eb292578dc8ccedbf1aec9641edc5",
+                "meta": {
+                    "name": "Illegal Artifact #12",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 12
+            }
+        ]
+    }
+]
