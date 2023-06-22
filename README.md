@@ -18,6 +18,8 @@ import {EtherscriptionMetadata} from 'ethscriptionmetadata'
 
 `Using the template below, add your information to a new .json file and place it in the projects folder. `
 
+If you need help with creating proper JSON, this site can help: https://jsonlint.com/
+
 ## Template
 
 ```json
