@@ -19,4 +19,4 @@ jobs:
         run: npm install
       
       - name: Test JSON files
-        run: node ./scripts/testJson.js test ./projects
+        run: node ./scripts/testJson.js test ./projects/
