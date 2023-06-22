@@ -125,6 +125,123 @@
                     ]
                 },
                 "number": "8"
+            },
+            {
+                "id": "0x86752dea0ab30a3b95857d994c65547a32a0cda56f14c5126e929c6400be98d3",
+                "meta": {
+                    "name": "DigiPixel #9",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "9"
+            },
+            {
+                "id": "0xe68e81d901b7aed74956e39fa4b1c57e54336ed419bdf82b80a9609a7d8679dc",
+                "meta": {
+                    "name": "DigiPixel #10",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "10"
+            },
+            {
+                "id": "0xff6c7b76c1f62699b88822800c76ae1d447963cf07623ce5a70141c612872ccc",
+                "meta": {
+                    "name": "DigiPixel #11",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "11"
+            },
+            {
+                "id": "0x0483edaa4d186ff4ed6b649dc12381a704bea297d7b270abc8e90db17151b016",
+                "meta": {
+                    "name": "DigiPixel #12",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "12"
+            },
+            {
+                "id": "0x10b7f891ce051b93b2506a0bbc967267fc2add31122f7d18fed2a3251a99425e",
+                "meta": {
+                    "name": "DigiPixel #13",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "13"
+            },
+            {
+                "id": "0x3cae5f492392da5c043ccaad7c37bb7b0408886500452d8b2dff823e8892e63f",
+                "meta": {
+                    "name": "DigiPixel #14",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "14"
+            },
+            {
+                "id": "0x2d68c85a502ea6bbf10f314406b28cf29314d86703f8251cc723f2e8f6252427",
+                "meta": {
+                    "name": "DigiPixel #15",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "15"
+            },
+            {
+                "id": "0x14e12de49fe27f19667fbefaf541a2b6b369342ca44927f88c899511022a4672",
+                "meta": {
+                    "name": "DigiPixel #16",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "16"
+            },
+            {
+                "id": "0x9864b9160c10f349037ada690416dad9d30c50fca381244ca48615802e8b87eb",
+                "meta": {
+                    "name": "DigiPixel #17",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Tribute"
+                        }
+                    ]
+                },
+                "number": "17"
             }
         ]
     }
