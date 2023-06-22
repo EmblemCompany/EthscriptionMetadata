@@ -19,7 +19,25 @@ function isValid(filePath) {
     try {
         const fileContent = fs.readFileSync(filePath, 'utf8')
         const jsonObject = JSON.parse(fileContent)
-        return Array.isArray(jsonObject) ? jsonObject : [jsonObject]
+        let returnObject = Array.isArray(jsonObject) ? jsonObject : [jsonObject]
+        if (
+            !returnObject[0].inscriptions || 
+            !returnObject[0].inscriptions.length > 0 
+        ) {
+            console.error(filePath, 'inscriptions array missing or empty')
+            return false
+        } else {
+            let failed = false
+            returnObject.forEach(item => {return item.inscriptions.forEach(inscription => {
+                if (!inscription.id && !inscription.data) {
+                    console.error(filePath, 'inscription missing id')
+                    failed = true
+                }
+            })})
+            if (failed) {return false}
+            return returnObject
+        }
+        
 
     } catch (error) {
         console.error(`Error parsing file ${filePath}: ${error.message}`)

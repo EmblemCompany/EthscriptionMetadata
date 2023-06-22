@@ -14,7 +14,15 @@ files.forEach((file, index) => {
     const jsonArray = test.isValid(filePath);
 
     if (jsonArray) {
-        jsonArray.forEach(item => metadata.push(item));
+        jsonArray.forEach(item => {
+            item.inscriptions.forEach(inscription => {
+                let collectionTrait = inscription.meta? inscription.meta.attributes.filter(item=>{return item.trait_type == "collection"}): []
+                if (!inscription.data && !collectionTrait.length) {
+                    inscription.meta.attributes.push({trait_type: "collection", value: item.name})
+                }
+            })
+            metadata.push(item)}
+        )
 
         if (files.length === index + 1) {
             fs.mkdirSync(path.dirname(outputPath), { recursive: true });
