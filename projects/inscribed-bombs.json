@@ -1,0 +1,864 @@
+[
+  {
+    "name": "Inscribed Bombs",
+    "inscription_icon": "0x0621248c355838291b2594872920687a20cbd2af45336d6a3c72cd5048dcbf9c",
+    "supply": "50",
+    "slug": "inscribed-bombs",
+    "description": "While waiting to become Bitcoin Bombs on ordinals with the rest of their kind, these 50 bombs couldn't wait for slow transactions of the BTC network and instead inscribed themselves on Ethereum. Soon they will join up with their ordinal friends and holding an Inscribed Bomb gives you WL for BitcoinBombs.",
+    "twitter_link": "https://twitter.com/bitcoinbombs",
+    "discord_link": "",
+    "website_link": "",
+    "inscriptions": [
+      {
+        "id": "0xdd1af478d5337fecb97a1daafb1ef76c9c6befbe708a042d24506b7e2a0a259d",
+        "meta": {
+          "name": "Inscribed Bombs #1",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12807
+            }
+          ]
+        },
+        "number": 1
+      },
+      {
+        "id": "0x8e4536812e2b297c1501247b4ff47b0735b8a8092edcc2d14d636051687a2338",
+        "meta": {
+          "name": "Inscribed Bombs #2",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12818
+            }
+          ]
+        },
+        "number": 2
+      },
+      {
+        "id": "0xa1aa88fb9c438b083f24e68ea737ca55ac87382757a603a56959412a482cba55",
+        "meta": {
+          "name": "Inscribed Bombs #3",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12825
+            }
+          ]
+        },
+        "number": 3
+      },
+      {
+        "id": "0xb7774ceba16b06edbc5c07ffeeae49889ac78e619446d040574c596d9f10ed93",
+        "meta": {
+          "name": "Inscribed Bombs #4",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12833
+            }
+          ]
+        },
+        "number": 4
+      },
+      {
+        "id": "0xe947c45f8b93c49d2a5f2d29dafe5d58523eee8341ad3d5c8754557af2b10bc9",
+        "meta": {
+          "name": "Inscribed Bombs #5",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12842
+            }
+          ]
+        },
+        "number": 5
+      },
+      {
+        "id": "0x2c33de8f404c45ae2ee12fbafa457aac4cb3e99bdf62fdedefb67835490c0025",
+        "meta": {
+          "name": "Inscribed Bombs #6",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12848
+            }
+          ]
+        },
+        "number": 6
+      },
+      {
+        "id": "0x7ab3d38897bf12422655f02aef1991951810e646e7074f8756a012645a8e6f73",
+        "meta": {
+          "name": "Inscribed Bombs #7",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12853
+            }
+          ]
+        },
+        "number": 7
+      },
+      {
+        "id": "0xe98502ea669223547cce16e37292ce4bcc3d6a5fcaa308399e5b48276fa3e98a",
+        "meta": {
+          "name": "Inscribed Bombs #8",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12861
+            }
+          ]
+        },
+        "number": 8
+      },
+      {
+        "id": "0xaa78b8a57d8aff11271428e5b38e7ac024defd6f4a9f5bf4b338019f42b2e0c9",
+        "meta": {
+          "name": "Inscribed Bombs #9",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12865
+            }
+          ]
+        },
+        "number": 9
+      },
+      {
+        "id": "0x1aee8cf5537592416e4493d7ce3f251cc3b46fcb140fec57e909f83d47da2cfd",
+        "meta": {
+          "name": "Inscribed Bombs #10",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12869
+            }
+          ]
+        },
+        "number": 10
+      },
+      {
+        "id": "0x286a124f61b53b29e3797ede641e885ce402ad7ef0186e335aa93c05c03bd52b",
+        "meta": {
+          "name": "Inscribed Bombs #11",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12871
+            }
+          ]
+        },
+        "number": 11
+      },
+      {
+        "id": "0x3df632806782cdbec1c036098e0b4a1fd47236d806018330d197e9d4ad7c0120",
+        "meta": {
+          "name": "Inscribed Bombs #12",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12879
+            }
+          ]
+        },
+        "number": 12
+      },
+      {
+        "id": "0xe86944ed3a028b1252ac516295daaf9e030ea29d3174c9e24e95d7710400cb69",
+        "meta": {
+          "name": "Inscribed Bombs #13",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12887
+            }
+          ]
+        },
+        "number": 13
+      },
+      {
+        "id": "0x1f5bc5d1b729563755e09ba58d9c74cebc1ef19e33f2de8e11a4976c1a5ef794",
+        "meta": {
+          "name": "Inscribed Bombs #14",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12889
+            }
+          ]
+        },
+        "number": 14
+      },
+      {
+        "id": "0x468628d30d2d957b13905645c08c2a60e419f88f51233146d8c02ba58767f480",
+        "meta": {
+          "name": "Inscribed Bombs #15",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12894
+            }
+          ]
+        },
+        "number": 15
+      },
+      {
+        "id": "0x53e035dc4ec43c3be6a1bc0c473c0c4a4c8bb9d3ba2df8184c401f20fda84d77",
+        "meta": {
+          "name": "Inscribed Bombs #16",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12900
+            }
+          ]
+        },
+        "number": 16
+      },
+      {
+        "id": "0xc31ab8d673781741f0f638a450ffd00e75076d136800321d41b9953484b858b7",
+        "meta": {
+          "name": "Inscribed Bombs #17",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12907
+            }
+          ]
+        },
+        "number": 17
+      },
+      {
+        "id": "0xa3e578861fb09d7117886c2aa6fb931827aa21318d0783c584642029ce8eae78",
+        "meta": {
+          "name": "Inscribed Bombs #18",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12912
+            }
+          ]
+        },
+        "number": 18
+      },
+      {
+        "id": "0x88985fc614f10f23215739bbb437f2704a38132d9e4d6005568e09fdc599427a",
+        "meta": {
+          "name": "Inscribed Bombs #19",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12916
+            }
+          ]
+        },
+        "number": 19
+      },
+      {
+        "id": "0xe3bbaefa9b74c5716016a95b304c16c5441063423b2ac61eefb77cd182b1f540",
+        "meta": {
+          "name": "Inscribed Bombs #20",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12922
+            }
+          ]
+        },
+        "number": 20
+      },
+      {
+        "id": "0xc42b9eeb0aa8b61ae43d7dad8694d06529a642fe4cdfdae5dd54b1fd6b286e31",
+        "meta": {
+          "name": "Inscribed Bombs #21",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12927
+            }
+          ]
+        },
+        "number": 21
+      },
+      {
+        "id": "0x51f33b8f58270bffc6ec65eba4eb6b66de924f3d8d56b936b2762d3d1b8cc0cf",
+        "meta": {
+          "name": "Inscribed Bombs #22",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12935
+            }
+          ]
+        },
+        "number": 22
+      },
+      {
+        "id": "0xfcc35d491fce7147cdf4e0ff950fecebfd61c7f8cb349d13238140ee057d7f37",
+        "meta": {
+          "name": "Inscribed Bombs #23",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12941
+            }
+          ]
+        },
+        "number": 23
+      },
+      {
+        "id": "0xf191768d2d81a0b05ed331057eaf73615dbff78b2cf22dfc6dbb6178007b289c",
+        "meta": {
+          "name": "Inscribed Bombs #24",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12945
+            }
+          ]
+        },
+        "number": 24
+      },
+      {
+        "id": "0x6fb99f61fbab6e3d4febd67ae3d40fb4536fbfc81fa9061b476dee17fc8f137b",
+        "meta": {
+          "name": "Inscribed Bombs #25",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12954
+            }
+          ]
+        },
+        "number": 25
+      },
+      {
+        "id": "0x8072ec5285890663d0e67450e37a7a9202ae2057c325b1ec6cecbad2fd4a1865",
+        "meta": {
+          "name": "Inscribed Bombs #26",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12961
+            }
+          ]
+        },
+        "number": 26
+      },
+      {
+        "id": "0xcb503e4a944c402eacbbbd813b47e001b58cb420e71586e022a401d3494aeb00",
+        "meta": {
+          "name": "Inscribed Bombs #27",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12968
+            }
+          ]
+        },
+        "number": 27
+      },
+      {
+        "id": "0x4e15a1136f8a2c16b9b6c03d7d80f0fb71c4aef11940111bf33dab478eb7c960",
+        "meta": {
+          "name": "Inscribed Bombs #28",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12973
+            }
+          ]
+        },
+        "number": 28
+      },
+      {
+        "id": "0x0621248c355838291b2594872920687a20cbd2af45336d6a3c72cd5048dcbf9c",
+        "meta": {
+          "name": "Inscribed Bombs #29",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12981
+            }
+          ]
+        },
+        "number": 29
+      },
+      {
+        "id": "0x50bc49f36d64156ae2911031273b880f5c05fa5e8d27ccc2b218266b5305a34e",
+        "meta": {
+          "name": "Inscribed Bombs #30",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12986
+            }
+          ]
+        },
+        "number": 30
+      },
+      {
+        "id": "0xbc45e58b5480ce73c678155f32e4a79ae2e7f210fa059ec690b110395b5eb590",
+        "meta": {
+          "name": "Inscribed Bombs #31",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 12999
+            }
+          ]
+        },
+        "number": 31
+      },
+      {
+        "id": "0xba2ee263392e83d1ea805aeb968162c0a1285f50c0f5cfa7d6715bfaac77a4a1",
+        "meta": {
+          "name": "Inscribed Bombs #32",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13006
+            }
+          ]
+        },
+        "number": 32
+      },
+      {
+        "id": "0xf91b4c74216e8aa7df7ec3815b8ddd6479955864cd619a2d6bd97d45fcfa28f5",
+        "meta": {
+          "name": "Inscribed Bombs #33",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13011
+            }
+          ]
+        },
+        "number": 33
+      },
+      {
+        "id": "0xe93da5028b3bb00e5f358d7463324290a3fdbceca6eaf0a48b95bf868e375ad3",
+        "meta": {
+          "name": "Inscribed Bombs #34",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13934
+            }
+          ]
+        },
+        "number": 34
+      },
+      {
+        "id": "0x71b8c9806cff38433a8c7c1d3c625ce355b03c04ea2647d2c6ac119de7785e4d",
+        "meta": {
+          "name": "Inscribed Bombs #35",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 13982
+            }
+          ]
+        },
+        "number": 35
+      },
+      {
+        "id": "0x149aa51f789861cfdaf8675e224881165654f2a998a21987517ccb258c06fba0",
+        "meta": {
+          "name": "Inscribed Bombs #36",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14081
+            }
+          ]
+        },
+        "number": 36
+      },
+      {
+        "id": "0xbf03c69f4ee457adfd64546df2959b78f2851c38f8ab219064735b027627f4ce",
+        "meta": {
+          "name": "Inscribed Bombs #37",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14172
+            }
+          ]
+        },
+        "number": 37
+      },
+      {
+        "id": "0xf6a0ca998e2d6c944849beb556b45c36204252ef8ceb0873194ee3469e088933",
+        "meta": {
+          "name": "Inscribed Bombs #38",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14278
+            }
+          ]
+        },
+        "number": 38
+      },
+      {
+        "id": "0xd1605693e36424b82b59cc368835405a611a24d0f8fb39f9cb67c71d26adf247",
+        "meta": {
+          "name": "Inscribed Bombs #39",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14332
+            }
+          ]
+        },
+        "number": 39
+      },
+      {
+        "id": "0xf81c02b7bab76322d4a7f69c16939d9779a83fdb6b7583759465a022603a267f",
+        "meta": {
+          "name": "Inscribed Bombs #40",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14418
+            }
+          ]
+        },
+        "number": 40
+      },
+      {
+        "id": "0x047236713be4bb1b0cd9f766399d0bc744e45c378354d4afa930590106b4e0e9",
+        "meta": {
+          "name": "Inscribed Bombs #41",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14770
+            }
+          ]
+        },
+        "number": 41
+      },
+      {
+        "id": "0x559f4c072cbed7cac1edfd355db56d2e17a38c4b0aa98ffe433bbdb97e121ccc",
+        "meta": {
+          "name": "Inscribed Bombs #42",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14779
+            }
+          ]
+        },
+        "number": 42
+      },
+      {
+        "id": "0x9bc7c971eb82c308e55c9e3f294a17a3e989f09a37356216a989e72cda28565b",
+        "meta": {
+          "name": "Inscribed Bombs #43",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14785
+            }
+          ]
+        },
+        "number": 43
+      },
+      {
+        "id": "0xc8a23650c4df7499922b51b2057c43b9a14d6e92fd990b76446a32316abf75e4",
+        "meta": {
+          "name": "Inscribed Bombs #44",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14800
+            }
+          ]
+        },
+        "number": 44
+      },
+      {
+        "id": "0x1b4fef2003276d9aaf7643aff9f84278f085bb47a9e1cdc30f5355dc95012b93",
+        "meta": {
+          "name": "Inscribed Bombs #45",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14810
+            }
+          ]
+        },
+        "number": 45
+      },
+      {
+        "id": "0x9b9c6388683c3829cc1dcad2def7dd1632e4f6b9bf72572778b04450ac4e9c2e",
+        "meta": {
+          "name": "Inscribed Bombs #46",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14883
+            }
+          ]
+        },
+        "number": 46
+      },
+      {
+        "id": "0xbc14925c2da38443cb37dbd5c153012717d5d3d130aef3f3579e37ea3a6b7549",
+        "meta": {
+          "name": "Inscribed Bombs #47",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14947
+            }
+          ]
+        },
+        "number": 47
+      },
+      {
+        "id": "0xba2d973bdbe1f61ca9a48f436181259c8fd96eacc76b6cace73f5e28c20c3c1b",
+        "meta": {
+          "name": "Inscribed Bombs #48",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14954
+            }
+          ]
+        },
+        "number": 48
+      },
+      {
+        "id": "0xa96c0bb415d9ea51e62a9a37a17c8736f6c30a2f1afe40d9b7fa8c9614d62673",
+        "meta": {
+          "name": "Inscribed Bombs #49",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14974
+            }
+          ]
+        },
+        "number": 49
+      },
+      {
+        "id": "0x8488456cabcc9e38aa9ef923a4bf9dc20d25ddb12000eada7def2adc94a3101c",
+        "meta": {
+          "name": "Inscribed Bombs #50",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Inscribed Bombs"
+            },
+            {
+              "trait_type": "ethscription_number",
+              "value": 14985
+            }
+          ]
+        },
+        "number": 50
+      }
+    ]
+  }
+]
