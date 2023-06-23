@@ -896,21 +896,21 @@
                 },
                 "number": "68"
             },
-            {
-                "id": "0x7dac703a1c09d780f0b8d89d3abb89674d85e1ea64cdc5ffc86f5361ab27961a",
-                "meta": {
-                    "name": "punkscription #69",
-                    "attributes": [
-                        {
-                            "trait_type": "collection",
-                            "value": "punkscriptions"
-                        }
-                    ]
-                },
-                "number": "69"
-		
-            {
-            
-        ]
-    }
-]
+ [
+    {
+        "id": "0x7dac703a1c09d780f0b8d89d3abb89674d85e1ea64cdc5ffc86f5361ab27961a",
+        "meta": {
+            "name": "punkscription 69",
+            "attributes": [
+                {
+                    "trait_type": "collection",
+                    "value": "punkscriptions"
+                }
+            ]
+        },
+        "number": "69" 
+    } ]
+
+
+
+
