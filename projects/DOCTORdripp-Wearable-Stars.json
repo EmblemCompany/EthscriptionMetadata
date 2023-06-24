@@ -1,0 +1,78 @@
+[
+    {
+        "name": "DOCTORdripp Wearable Stars",
+        "inscription_icon": "0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
+        "supply": "3",
+        "slug": "doctordripp-wearable-stars",
+        "description": "64x64 animated Ethscription icons inspired by wearables in DCL metaverse.",
+        "twitter_link": "https://twitter.com/DOCTORdrippNFT",
+        "discord_link": "https://discord.gg/we2KjgwGHK",
+        "website_link": "https://DOCTORdripp.btc.us/",
+        "background_color": "#FFBF00",
+        "inscriptions": [
+          {
+            "id": "0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
+            "meta": {
+              "name": "Wearable Star Emm #1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "DOCTORdripp Wearable Stars"
+                },
+                {
+                    "trait_type": "biome",
+                    "value": "Lovers Peak"
+                },
+                {
+                    "trait_type": "avatar",
+                    "value": "Emm"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0xe0059e811ff7f313beb2b96bf9036619f42b584b6f47d2bb6843ac3a899c164e",
+            "meta": {
+              "name": "Wearable Star DOCTORdripp #2",
+              "attributes": [
+                {
+                    "trait_type": "collection",
+                    "value": "DOCTORdripp Wearable Stars"
+                  },
+                  {
+                      "trait_type": "biome",
+                      "value": "Blueberry Lake"
+                  },
+                  {
+                    "trait_type": "avatar",
+                    "value": "DOCTORdripp"
+                }
+              ]
+            },
+            "number": "2"
+          },
+          {
+            "id": "0xb826d055f77625f8ec1fdc25909bf2dc51497979f8c3b167a75b0afc8b5a2bd8",
+            "meta": {
+              "name": "Wearable Star Nikki Fuego #3",
+              "attributes": [
+                {
+                    "trait_type": "collection",
+                    "value": "DOCTORdripp Wearable Stars"
+                  },
+                  {
+                      "trait_type": "biome",
+                      "value": "Clarity Falls"
+                  },
+                  {
+                    "trait_type": "avatar",
+                    "value": "Nikki Fuego"
+                }
+              ]
+            },
+            "number": "3"
+          }
+        ]
+      }
+]
