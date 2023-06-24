@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Ruby's Kitties",
+        "inscription_icon": "0xbe561704f5e13cf1cd810cbc3146e3801eceaf77f4c5217b811cabd41c119f1a",
+        "supply": "10",
+        "slug": "rubykitties",
+        "description": "10 cute Ruby's Kitties have been chosen to meow among the ethscriptions",
+        "twitter_link": "https://twitter.com/RubyKitties",
+        "discord_link": "https://discord.gg/Hzj6Ava2Gv",
+        "website_link": "https://rubykitties.tk",
+        "inscriptions": [
+          {
+            "id": "0xbe561704f5e13cf1cd810cbc3146e3801eceaf77f4c5217b811cabd41c119f1a",
+            "meta": {
+              "name": "Ruby's Kitty 5-#0",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "1"
+          },
+          {
+            "id": "0xa403b0642d6ada7f72eada7c4d82cb0e824e5537634e653832c57c09c8b9a8a0",
+            "meta": {
+              "name": "Ruby's Kitty 5-#1",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "2"
+          },		  
+          {
+            "id": "0xea118dc9e59c780301283768632a4e78307bb6afd2a13774dbd742c1ac565323",
+            "meta": {
+              "name": "Ruby's Kitty 5-#2",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "3"
+          },
+          {
+            "id": "0x62982fddcd2590442bfba9e7c9879355c540837c1e22bd7f4e1ae8c91fd04f50",
+            "meta": {
+              "name": "Ruby's Kitty 5-#3",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "4"
+          },
+          {
+            "id": "0x61e85e1e3d09c4802dc92f0a6fdd799485eaf1d29f31b73dc5970b5d3b24a0ba",
+            "meta": {
+              "name": "Ruby's Kitty 5-#4",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "5"
+          },
+          {
+            "id": "0xb742ef74da5236cda498030eedeb165d7ea7bf144a2e74b8cc2b78efe2203c25",
+            "meta": {
+              "name": "Ruby's Kitty 5-#5",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "6"
+          },
+          {
+            "id": "0xbb615035c4fe2609740365e132eeaea06a055aa734c74e86b7640ca4c4ddc3fd",
+            "meta": {
+              "name": "Ruby's Kitty 5-#6",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "7"
+          },
+          {
+            "id": "0xc586bc5482cb5b55353460c48083416c5736e0647090d2cc3fe8d588b519209a",
+            "meta": {
+              "name": "Ruby's Kitty 5-#7",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "8"
+          },
+          {
+            "id": "0xd52c1d26fdbf90b8eb4c61ebb6342807fa4964a700f66f08c47e047aa837055a",
+            "meta": {
+              "name": "Ruby's Kitty 5-#8",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "9"
+          }
+		  ,
+          {
+            "id": "0xac828aa81fd840c01f567869f45cdbc70e3125a8b0d419fb81dbf1e083c4968a",
+            "meta": {
+              "name": "Ruby's Kitty 5-#9",
+              "attributes": [
+                {
+                  "trait_type": "collection",
+                  "value": "Ruby's Kitties"
+                }
+              ]
+            },
+            "number": "10"
+          }
+        ]
+      }
+]
