@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Ethereum ROO's",
+        "inscription_icon": "0x8a5e9e4e78677ee1e22a768847d532fe948dba1f515ec3842a75bc749111092d",
+        "supply": "5",
+        "slug": "ethereum-roo's",
+        "description": "Homage to Roger ROO, the Jack'd of all ROO's!!",
+        "twitter_link": "",
+        "discord_link": "",
+        "website_link": "",
+        "inscriptions": [
+            {
+                "id": "0x00aed274f9d2e5025c91dc7c954d59365f4b129fd2b6e0ae6e006b92a51c2104",
+                "meta": {
+                    "name": "Ethereum ROO's #1",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Legend ROO"
+                        }
+                    ]
+                },
+                "number": "1"
+            },
+            {
+                "id": "0x8a5e9e4e78677ee1e22a768847d532fe948dba1f515ec3842a75bc749111092d",
+                "meta": {
+                    "name": "Ethereum ROO's #2",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Legend ROO"
+                        }
+                    ]
+                },
+                "number": "2"
+            },
+            {
+                "id": "0x417b267ced777662aa6e1e96110f6a3235f6c0de7cc8de320e1bc3dffd173994",
+                "meta": {
+                    "name": "Ethereum ROO's #3",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Legend ROO"
+                        }
+                    ]
+                },
+                "number": "3"
+            },
+            {
+                "id": "0xcd099be87b14d39bcabe5a1ad3cb62df832328bf2e351cef3bbda659be6e3865",
+                "meta": {
+                    "name": "Ethereum ROO's #4",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Legend ROO"
+                        }
+                    ]
+                },
+                "number": "4"
+            },
+            {
+                "id": "0x061f5f5c496653a05bdc5b135343015f4cac959c8efa5c447bd148a40e1be9bc",
+                "meta": {
+                    "name": "Ethereum ROO's #5",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Legend ROO"
+                        }
+                    ]
+                },
+                "number": "5"
+            }
+           
+        ]
+    }
+]
