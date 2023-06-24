@@ -1,0 +1,243 @@
+{
+	"name": "Pepe Pixel Pals",
+	"inscription_icon": "0x6d28b784f0ab46851f99cb21a9ef907071c1d983885d4b3bf26028ba60340d6c",
+	"supply": "21",
+	"slug": "pepe-pixel-pals",
+	"description": "A unique collection of 21 distinct, cute pixel art representations of Pepe, residing on the Ethereum blockchain.",
+	"twitter_link": "https://twitter.com/ProfessorPepe69",
+	"discord_link": "",
+	"website_link": "",
+	"background_color": "#FFFFFF",
+	"inscriptions": [{
+			"id": "0x6d28b784f0ab46851f99cb21a9ef907071c1d983885d4b3bf26028ba60340d6c",
+			"meta": {
+				"name": "Fresh Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "1"
+		},
+		{
+			"id": "0xe8d3b935a846bed1aabb4549ab789cb020734850e9b868b8431f8541dd901d31",
+			"meta": {
+				"name": "Dolled Up Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "2"
+		},
+		{
+			"id": "0xe344accd751f059205d02d34a637efa1aefe7dec97da38015b2e25e07d265bd2",
+			"meta": {
+				"name": "eGirl Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "3"
+		},
+		{
+			"id": "0xa9170a29869f56986ddf7f66d91ec4b521bb415ed973969d7c6eadb6282d1885",
+			"meta": {
+				"name": "Emo Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "4"
+		},
+		{
+			"id": "0x41018880eea40a124fd5a55b3817c16e26d10c0c2afe2260b2176b7a872b7f04",
+			"meta": {
+				"name": "Flower Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "5"
+		},
+		{
+			"id": "0x207c8e50b650c56af2dc990db5d05852e45dec3c77c8529fb81f5b57db3d28d8",
+			"meta": {
+				"name": "French Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "6"
+		},
+		{
+			"id": "0xd8cea255718324b648a1666f0c8c39274c7dcc8fe3832c9dfd252781a6ea6771",
+			"meta": {
+				"name": "G Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "7"
+		},
+		{
+			"id": "0x91e76991238be90f748145e1adfb3d3abd8f0bf63b07c207295fb2fbef3a1fbe",
+			"meta": {
+				"name": "Gnome Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "8"
+		},
+		{
+			"id": "0x63b4ff18a38cb9ac6e65e03254dd805c08a3b88d396daf1baf0ac07ee1d37e4e",
+			"meta": {
+				"name": "Hawaiian Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "9"
+		},
+		{
+			"id": "0x6006149aa9701550a529cfb6d777ee247550ef96e64813c08d9ba309a75aabff",
+			"meta": {
+				"name": "Hott Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "10"
+		},
+		{
+			"id": "0x9aa861b94e44789ba869c03ec0f8e19a88e15e8f7c980c11d14c60127182843e",
+			"meta": {
+				"name": "Innocent Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "11"
+		},
+		{
+			"id": "0x5c28e3bf63f0eb5f3ca0b4b9208060467d416befadfd3d5fada0e6e3de5c8437",
+			"meta": {
+				"name": "Jesus Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "12"
+		},
+		{
+			"id": "0xffb0538df26fbbe0ce93408f0ed0185740cec337ae3076840c32a22b2682c503",
+			"meta": {
+				"name": "King Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "13"
+		},
+		{
+			"id": "0xf751b3fb8638408073dac5ce06ddd8112459b0a2e3de216ac29c4ecb459ae4cd",
+			"meta": {
+				"name": "Mexican Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "14"
+		},
+		{
+			"id": "0xb9eb1f096abc70ee056605f8a307a63f32bedfaff3baacac60b5bf04b540b0b7",
+			"meta": {
+				"name": "Orthodox Jew Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "15"
+		},
+		{
+			"id": "0xe78cde5a7263a8fc18986f9f94400ac7d29dcf38779e3c225292e1b97a4129e8",
+			"meta": {
+				"name": "Rainbow Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "16"
+		},
+		{
+			"id": "0xe48b89a6682e6c265e7e138501af28baa38155f8ee5764f20ebd100e5649f2ac",
+			"meta": {
+				"name": "Rancher Cowboy Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "17"
+		},
+		{
+			"id": "0x78edd26f36bd3afb7e01ec03cedd13eb2fd048ffbed273577ef5db1d57f06fe4",
+			"meta": {
+				"name": "Santa Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "18"
+		},
+		{
+			"id": "0x76cea580f5a4872b333070a97b8f756217fb6abaf6d97140fe244338100221eb",
+			"meta": {
+				"name": "Sleeping Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "19"
+		},
+		{
+			"id": "0x974be29916f2a0bd5782c073fe0bd06423617780f1a569d235f5bd4f827a105e",
+			"meta": {
+				"name": "Ahegao Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "20"
+		},
+		{
+			"id": "0x138ffbbac299d3e3ca87209dafab544e36d65ec136bd48e83247416ea53668de",
+			"meta": {
+				"name": "Trump Pepe",
+				"attributes": [{
+					"trait_type": "collection",
+					"value": "Pepe Pixel Pals"
+				}]
+			},
+			"number": "21"
+		}
+	]
+}
