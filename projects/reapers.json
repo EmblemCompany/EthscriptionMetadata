@@ -14,10 +14,26 @@
             "meta": {
               "name": "Ethscription Reaper #0",
               "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "Ethscription Reapers"
-                }
+            {
+              "trait_type": "collection",
+              "value": "Ethscription reapers"
+            },
+			{
+				"trait_type": "HANDHELD",
+				"value": "Black Scythe"
+			},
+			{
+				"trait_type": "SKULL",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "EYES",
+				"value": "Third Eye"
+			},
+			{
+				"trait_type": "BODY",
+				"value": "Black Cloak"
+			}
               ]
             },
             "number": "0"
@@ -27,10 +43,26 @@
             "meta": {
               "name": "Ethscription Reaper #1",
               "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "Ethscription Reapers"
-                }
+            {
+              "trait_type": "collection",
+              "value": "Ethscription reapers"
+            },
+			{
+				"trait_type": "HANDHELD",
+				"value": "Earth Globe Staff"
+			},
+			{
+				"trait_type": "SKULL",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "EYES",
+				"value": "Third Eye"
+			},
+			{
+				"trait_type": "BODY",
+				"value": "Skeleton Pajamas"
+			}
               ]
             },
             "number": "1"
@@ -40,10 +72,26 @@
             "meta": {
               "name": "Ethscription Reaper #2",
               "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "Ethscription Reapers"
-                }
+            {
+              "trait_type": "collection",
+              "value": "Ethscription reapers"
+            },
+			{
+				"trait_type": "HANDHELD",
+				"value": "Rose Cross"
+			},
+			{
+				"trait_type": "SKULL",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "EYES",
+				"value": "Aware"
+			},
+			{
+				"trait_type": "BODY",
+				"value": "Pink Purple Cloak"
+			}
               ]
             },
             "number": "2"
