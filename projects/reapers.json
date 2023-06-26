@@ -9,33 +9,65 @@
         "discord_link": "",
         "website_link": "",
         "inscriptions": [
-          {
-            "id": "0xe171d60f5505f4b375dd3d587a98a812e5698e9e5b7243b1f71d1a3bbba4d2e0",
-            "meta": {
-              "name": "Ethscription Reaper #0",
-              "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "Ethscription Reapers"
-                }
-              ]
+      {
+        "id": "0xf5d632dca9bded6941f46ca06b16970ffb6ab263d58b99b6cd54d536f6b9e540",
+        "meta": {
+          "name": "Ethscription Reaper #0",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Ethscription reapers"
             },
-            "number": "0"
-          },
-          {
-            "id": "0xf6a5ebc4171227668e4e97bc54cb70cc827d173c72f679c7e0fc1247265ef279",
-            "meta": {
-              "name": "Ethscription Reaper #1",
-              "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "Ethscription Reapers"
-                }
-              ]
+			{
+				"trait_type": "HANDHELD",
+				"value": "Earth Globe Staff"
+			},
+			{
+				"trait_type": "SKULL",
+				"value": "White"
+			},
+			{
+				"trait_type": "EYES",
+				"value": "Third Eye"
+			},
+			{
+				"trait_type": "BODY",
+				"value": "Black Cloak"
+			}
+          ]
+        },
+        "number": "0"
+      },
+      {
+        "id": "0x165d479d5c4c9ed57b73549a6e91c4b8fd7a495a953863e154aca70a7c097484",
+        "meta": {
+          "name": "Ethscription Reaper #1",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Ethscription reapers"
             },
-            "number": "1"
-          },
-          {
+			{
+				"trait_type": "HANDHELD",
+				"value": "Rose Cross"
+			},
+			{
+				"trait_type": "SKULL",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "EYES",
+				"value": "Aware"
+			},
+			{
+				"trait_type": "BODY",
+				"value": "Pink Purple Cloak"
+			}
+          ]
+        },
+        "number": "1"
+      },
+            {
             "id": "0x692b1bc2bde06d74f46e3a51c8dd735c95dae22f6ddef2f763822cd5a04e8be0",
             "meta": {
               "name": "Ethscription Reaper #2",
