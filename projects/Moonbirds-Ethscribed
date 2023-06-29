@@ -1,0 +1,38 @@
+{
+    "name": "Moonbirds Ethscribed",
+    "inscription_icon": "0x277043a72755cb6ffaf49d51195c78afaf25c20553d2bbe9f6c322a360509de7",
+    "supply": "1",
+    "slug": "moonbirds-ethscribed",
+    "description": "Introducing Ethscribed Moonbirds, the pinnacle of NFT collections for the discerning art collector. We're embarking on an exciting journey to ethscribe the entire Moonbirds collection, releasing 10 unique digital artworks with each sale. Each Ethscribed Moonbird is not just an artwork, but a passport to exclusive experiences that foster a deeper connection with the artists and their creations. Join us as we progressively unveil the full spectrum of the Moonbirds collection, one ethscribed masterpiece at a time.",
+    "twitter_link": "",
+    "discord_link": "",
+    "website_link": "",
+    "background_color": "#87CEEB",
+    "inscriptions": [
+      {
+        "id": "0x277043a72755cb6ffaf49d51195c78afaf25c20553d2bbe9f6c322a360509de7",
+        "meta": {
+          "name": "Moonbirds Ethscribed #3904",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Moonbirds Ethscribed"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Enlightened Purple"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Enlightened"
+            },
+            {
+              "trait_type": "Feathers",
+              "value": "Legendary Crescent"
+            }
+          ]
+        },
+        "number": "1"
+      }
+    ]
+}
