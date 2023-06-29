@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "node ./scripts/testJson.js test ./projects/",
-    "build": "node ./scripts/buildMetadata.js"
+    "build": "node ./scripts/buildMetadata.js",
+    "publish:patch": "npm version patch && npm publish",
+    "publish:minor": "npm version minor && npm publish",
+    "publish:major": "npm version major && npm publish"
   },
   "repository": {
     "type": "git",
