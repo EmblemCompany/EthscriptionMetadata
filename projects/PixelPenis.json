@@ -1,5 +1,5 @@
 {
-    "name": "PexilPenis",
+    "name": "PixelPenis",
     "inscription_icon": "0x5ca3380e1fcb9918c70f4dc97183b444bbabdb407a5fb3b377b01bb7a534bd66",
     "supply": "18",
     "slug": "pixel-penis",
@@ -16,7 +16,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -29,7 +29,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -42,7 +42,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -55,7 +55,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -68,7 +68,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -81,7 +81,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -94,7 +94,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -107,7 +107,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -120,7 +120,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -133,7 +133,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -146,7 +146,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -159,7 +159,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -172,7 +172,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -185,7 +185,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -198,7 +198,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -211,7 +211,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -224,7 +224,7 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
@@ -237,11 +237,37 @@
           "attributes": [
             {
               "trait_type": "collection",
-              "value": "Pexil Penis"
+              "value": "Pixel Penis"
             }
           ]
         },
         "number": "18"
+      },
+        {
+        "id": "0x8facec1d388e54d1cb41847e5ef28e3a06704b096ff8fe8eb040db190dfe3561",
+        "meta": {
+          "name": "Penis #19",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Pixel Penis"
+            }
+          ]
+        },
+        "number": "19"
+      },
+        {
+        "id": "0x9853b5fe57eb111fb4dc0ce031ecd121602513f2299ec687a2559ad8fff2324c",
+        "meta": {
+          "name": "Penis #20",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Pixel Penis"
+            }
+          ]
+        },
+        "number": "20"
       }
     ]
 }
