@@ -4,8 +4,8 @@
         "inscription_icon": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
         "supply": "50",
         "slug": "illegal-artifact",
-        "description": "A collection of 12 artifacts as base64 and hex encoded as Ethscriptions",
-        "twitter_link": "",
+        "description": "25 Static and their 25 animated iterations - First 1/1 collection to begin ethscribing",
+        "twitter_link": "@kingbigben0001",
         "discord_link": "",
         "website_link": "",
         "inscriptions": [
@@ -177,6 +177,84 @@
                     ]
                 },
                 "number": 12
+            },
+            {
+                "id": "0x788694093f615aa76de9a7d4d91ee0a93bb3527ef43bf5629f2ce95f609b18ff",
+                "meta": {
+                    "name": "Illegal Artifact #13",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 13
+            },
+            {
+                "id": "0xc40cce3ba75d3ce131238d3b27e995bd114d2ff6fd212b2cb9ed290985f081bd",
+                "meta": {
+                    "name": "Illegal Artifact #14",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 14
+            },
+            {
+                "id": "0x236fea5b92a7f6baba5672a23fc7b65c870eb292578dc8ccedbf1aec9641edc5",
+                "meta": {
+                    "name": "Illegal Artifact #15",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 15
+            },
+            {
+                "id": "0xb157b8abd3c6f0644ad8b0070db0b399f83988427378aae6040e7753f0aa04b4",
+                "meta": {
+                    "name": "Illegal Artifact #16",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 16
+            },
+            {
+                "id": "0xab17185af59d6124233b86dabcbe948fd3ce51361bcd6aeaaeb34d1406d1f271",
+                "meta": {
+                    "name": "Illegal Artifact #17",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 17
+            },
+            {
+                "id": "0x8151dcf5cd77b4673f4604cf5d03257a34e953b365fa2af38a244cf9156155f1",
+                "meta": {
+                    "name": "Illegal Artifact #18",
+                    "attributes": [
+                        {
+                            "trait_type": "collection",
+                            "value": "Illegal Artifact"
+                        }
+                    ]
+                },
+                "number": 18
             }
         ]
     }
