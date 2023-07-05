@@ -1,0 +1,68 @@
+{
+	"name": "Hydrate Labs Photography",
+	"inscription_icon": "0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e",
+	"slug": "Hydrate-Labs-Photography",
+	"description": "Photography from Drew Harrison Marshall, founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
+	"twitter_link": "https://twitter.com/hydratelabs",
+	"discord_link": "",
+	"website_link": "",
+	"background_color": "#28282B",
+	"inscriptions": [{
+			"id": "0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e",
+			"meta": {
+				"name": "Footsteps on Baker Beach",
+				"attributes": [{
+						"trait_type": "Collection",
+						"value": "Hydrate Labs Photography"
+					},
+					{
+						"trait_type": "Year",
+						"value": "2022"
+					},
+					{
+						"trait_type": "Location",
+						"value": "San Francisco"
+					},
+					{
+						"trait_type": "Original File Size",
+						"value": "220kb"
+					},
+					{
+						"trait_type": "ethscription",
+						"value": "176602"
+					}
+				]
+			},
+			"number": 1
+		},
+
+		{
+			"id": "0x79f26dd6ae31fdee309550895256973137190e560c602feeb661bd98cbd5c70b",
+			"meta": {
+				"name": "The City",
+				"attributes": [{
+						"trait_type": "Collection",
+						"value": "Hydrate Labs Photography"
+					},
+					{
+						"trait_type": "Year",
+						"value": "2022"
+					},
+					{
+						"trait_type": "Location",
+						"value": "Mount Tamalpais"
+					},
+					{
+						"trait_type": "Original File Size",
+						"value": "201kb"
+					},
+					{
+						"trait_type": "ethscription",
+						"value": "384192"
+					}
+				]
+			},
+			"number": 2
+		}
+	]
+}
