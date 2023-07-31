@@ -12,7 +12,10 @@
     {
       "ethscription_id": "0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
 "name": "Wearable Star Emm #F1",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "collection",
             "value": "DOCTORdripp Wearable Stars"
@@ -35,7 +38,10 @@
     {
       "ethscription_id": "0xe0059e811ff7f313beb2b96bf9036619f42b584b6f47d2bb6843ac3a899c164e",
 "name": "Wearable Star DOCTORdripp #F2",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "collection",
             "value": "DOCTORdripp Wearable Stars"
@@ -58,7 +64,10 @@
     {
       "ethscription_id": "0xb826d055f77625f8ec1fdc25909bf2dc51497979f8c3b167a75b0afc8b5a2bd8",
 "name": "Wearable Star Nikki Fuego #F3",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "collection",
             "value": "DOCTORdripp Wearable Stars"
@@ -82,7 +91,10 @@
       "ethscription_id": "0xe01b97527d2bca33d2142b4254b8398b1e543b6b2a0ca835a39d9894d7590717",
 "name": "DOCTORdripp Wearable Stars #E4",
         "item_index": "#4",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Cobalt Ridge"
@@ -105,7 +117,10 @@
       "ethscription_id": "0xb3b1dca15bbac7481943aa9eb37abdad5b680f9e166d60dd46411e3243b2c220",
 "name": "DOCTORdripp Wearable Stars #E5",
         "item_index": "#5",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Blueberry Lake"
@@ -124,7 +139,10 @@
       "ethscription_id": "0xb79c42f5c1b2b7e12873a876421ce7a1baf5480a76d6a6a816291112ff3015e2",
 "name": "DOCTORdripp Wearable Stars #E6",
         "item_index": "#6",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Clarity Falls"
@@ -147,7 +165,10 @@
       "ethscription_id": "0x44c5266d3a5b42b79ccb5bf6f249d966c188c73c45ef343471da1b072dae3e41",
 "name": "DOCTORdripp Wearable Stars #E7",
         "item_index": "#7",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Pirates Cove"
@@ -162,7 +183,10 @@
       "ethscription_id": "0xfcc4842f76203a60ec7466ce9b03a55bf09a3c37d254df5d2bb8328810e35bcc",
 "name": "DOCTORdripp Wearable Stars #E8",
         "item_index": "#8",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Rigid Ridge"
@@ -181,7 +205,10 @@
       "ethscription_id": "0x1e3c822603937bb7ca39ca9274f4b81a2b1f4678e2c090d7f66da239aa2108af",
 "name": "DOCTORdripp Wearable Stars #E9",
         "item_index": "#9",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Winterfrost"
@@ -200,7 +227,10 @@
       "ethscription_id": "0x579c9b8f26128bcd070e6fbab640d53588c5c999cc2a2429207027ce83ac748b",
 "name": "DOCTORdripp Wearable Stars #E10",
         "item_index": "#10",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Serene Spa"
@@ -219,7 +249,10 @@
       "ethscription_id": "0xfd4545fbb8c90ffc8da22c5ff909821c430d44184ec30508bbea8751e530a4d3",
 "name": "DOCTORdripp Wearable Stars #E11",
         "item_index": "#11",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Prairieland"
@@ -234,7 +267,10 @@
       "ethscription_id": "0x9187a764efb47aa80008fcd8708f4e9964814ee53750bfd35186dddabb87d243",
 "name": "DOCTORdripp Wearable Stars #E12",
         "item_index": "#12",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Clarity Falls"
@@ -249,7 +285,10 @@
       "ethscription_id": "0xfb2064fbef68877765300d10e907538b1d5d4ae741fa79c675cc52e9c26995cf",
 "name": "DOCTORdripp Wearable Stars #E13",
         "item_index": "#13",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Jurassic"
@@ -272,7 +311,10 @@
       "ethscription_id": "0xd162fb0feff98d20cb1627cd52a4514eca183b581a672a2f1ec323e41af701da",
 "name": "DOCTORdripp Wearable Stars #E14",
         "item_index": "#14",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Satoshi Trees"
@@ -287,7 +329,10 @@
       "ethscription_id": "0x13d67dc7dcd1eba9ee498fc6df83a33cec9861b69eabe581f5d6838719210ea0",
 "name": "DOCTORdripp Wearable Stars #E15",
         "item_index": "#15",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Jurassic"
@@ -306,7 +351,10 @@
       "ethscription_id": "0xd9c1994962c7479cb5f0b9efbee39a095b8af6cb675a519c0a46720866bc302a",
 "name": "DOCTORdripp Wearable Stars #E16",
         "item_index": "#16",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Serene Spa"
@@ -329,7 +377,10 @@
       "ethscription_id": "0xc487acaad8a0e15a33b20c088a7727f8925dc16ef7a211dbcde52282cce844e7",
 "name": "DOCTORdripp Wearable Stars #E17",
         "item_index": "#17",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Rigid Ridge"
@@ -348,7 +399,10 @@
       "ethscription_id": "0x709f09296e6b2ddddcab97d3642bc0e515209db134e5ba63780ed7da75ff797b",
 "name": "DOCTORdripp Wearable Stars #E18",
         "item_index": "#18",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Element115"
@@ -367,7 +421,10 @@
       "ethscription_id": "0xcdb69f963deba47eab74e41b2645937a5700d7390616bfb693f1f25daf3106fb",
 "name": "DOCTORdripp Wearable Stars #E19",
         "item_index": "#19",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Serene Spa"
@@ -386,7 +443,10 @@
       "ethscription_id": "0x7416fbad565bccdf0c5983f0f16b56b953f9de258ae6d5b87ae5bc0ce24b97c6",
 "name": "DOCTORdripp Wearable Stars #E20",
         "item_index": "#20",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Winterfrost"
@@ -401,7 +461,10 @@
       "ethscription_id": "0xaea6294764fd6de2ada2afe212350b941f9fea08365da12ba6adc643b4ca3389",
 "name": "DOCTORdripp Wearable Stars #E21",
         "item_index": "#21",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Pirates Cove"
@@ -420,7 +483,10 @@
       "ethscription_id": "0xbaf0c81ab52c808497aa63e8b1166fcddc919ec9541f07ee006c05cdaf2bc46a",
 "name": "DOCTORdripp Wearable Stars #E22",
         "item_index": "#22",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Prairieland"
@@ -439,7 +505,10 @@
       "ethscription_id": "0xaba98410587c1e1943d6dcaecd4b2105317aa9a26400c2368dd03dbac8b9fc1f",
 "name": "DOCTORdripp Wearable Stars #E23",
         "item_index": "#23",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Vermuda"
@@ -458,7 +527,10 @@
       "ethscription_id": "0x88a56bd70564d3bcab94d714d5b1b00bb317533643f02814733e81f75aaa2df2",
 "name": "DOCTORdripp Wearable Stars #E24",
         "item_index": "#24",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Vast Canyon"
@@ -481,7 +553,10 @@
       "ethscription_id": "0xa54727794d20c4a0fedf8c4b6f90b3c80f8a7f347b4dc9ecf991803b17cff28b",
 "name": "DOCTORdripp Wearable Stars #E25",
         "item_index": "#25",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Smokelands"
@@ -496,7 +571,10 @@
       "ethscription_id": "0xa175e8c6150fafc623074c53459da6045f1dccea93a7111f415a25e5182c54f3",
 "name": "DOCTORdripp Wearable Stars #E26",
         "item_index": "#26",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Desert Station"
@@ -515,7 +593,10 @@
       "ethscription_id": "0x3134b6b4abe10d4c115aa4a07d5ae7078d41e095d2cc26ac7e79a556c4dae51c",
 "name": "DOCTORdripp Wearable Stars #E27",
         "item_index": "#27",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Element115"
@@ -538,7 +619,10 @@
       "ethscription_id": "0xf2e51793fd448621a25747ee6c252807e86acb6a4c3889f4f00e63e391a0c288",
 "name": "DOCTORdripp Wearable Stars #E28",
         "item_index": "#28",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Mega Forest"
@@ -553,7 +637,10 @@
       "ethscription_id": "0xb1a141d91bcd77e5a3c8a8497c27a6470e70e0bac8abb5bdd185534e1b0b4cc0",
 "name": "DOCTORdripp Wearable Stars #E29",
         "item_index": "#29",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Lovers Peak"
@@ -576,7 +663,10 @@
       "ethscription_id": "0xa823a9c07a460a8f30960ec3550a9fc3dddf465daf91d31040748e2cbfa1892f",
 "name": "DOCTORdripp Wearable Stars #E30",
         "item_index": "#30",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred Lushland"
@@ -595,7 +685,10 @@
       "ethscription_id": "0x1a89381c5207d9e6207043fb79c406b8142067d35e78a15820af402418be0093",
 "name": "DOCTORdripp Wearable Stars #E31",
         "item_index": "#31",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Freddys Cave"
@@ -614,7 +707,10 @@
       "ethscription_id": "0xc9293ff8c6bc43745c8dc1e4d378bba0f33cfd861288d952de4adec7661c5258",
 "name": "DOCTORdripp Wearable Stars #E32",
         "item_index": "#32",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Serene Spa"
@@ -633,7 +729,10 @@
       "ethscription_id": "0x4cfce234d8668e6987ad77e6cc09f9a4843702cbc8faf57208794095f4616a8e",
 "name": "DOCTORdripp Wearable Stars #E33",
         "item_index": "#33",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Desert Station"
@@ -652,7 +751,10 @@
       "ethscription_id": "0xce171c6d3b1425434d591cb949105fd859758a17f6fbe0e32d037716f6be3676",
 "name": "DOCTORdripp Wearable Stars #E34",
         "item_index": "#34",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Amber Point"
@@ -671,7 +773,10 @@
       "ethscription_id": "0xc4dcc9f3569d17ab2a45680a6f35764714202d0a52abe5f02744292ae49b1cce",
 "name": "DOCTORdripp Wearable Stars #E35",
         "item_index": "#35",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Vermuda"
@@ -690,7 +795,10 @@
       "ethscription_id": "0x565fcc34949d70a81e01d3ec70c1094e01c74d343959421ec52a9fa2a1c91feb",
 "name": "DOCTORdripp Wearable Stars #E36",
         "item_index": "#36",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Serene Spa"
@@ -709,7 +817,10 @@
       "ethscription_id": "0x11519b725f580d05357005b5114c4d6f453d5f13626b7ab94e87cfa08104a551",
 "name": "DOCTORdripp Wearable Stars #E37",
         "item_index": "#37",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Sacred First Morning"
@@ -732,7 +843,10 @@
       "ethscription_id": "0xeab11ffe2276734d88710b40cdb46bc089d45c4e40ce569680794c394856bb88",
 "name": "DOCTORdripp Wearable Stars #E38",
         "item_index": "#38",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Prairieland"
@@ -747,7 +861,10 @@
       "ethscription_id": "0x51a10585173974f9458f18aa485676027e54719b8874d995b2d1b8ac845f3fa3",
 "name": "DOCTORdripp Wearable Stars #E39",
         "item_index": "#39",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Winterfrost"
@@ -766,7 +883,10 @@
       "ethscription_id": "0x758fcee0dc2501d5b33debe98cc72c8a6a0d9e615bace77427addec5e4edd7a6",
 "name": "DOCTORdripp Wearable Stars #E40",
         "item_index": "#40",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Vermuda"
@@ -785,7 +905,10 @@
       "ethscription_id": "0x77c2f33b235c742baed5b7652829ccea40f03c1d13daaee40dcff61017daf609",
 "name": "DOCTORdripp Wearable Stars #E41",
         "item_index": "#41",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Jurassic"
@@ -804,7 +927,10 @@
       "ethscription_id": "0x0b248c1a325de6ffad906e13d8350318f95b535a0c8d35a2df64c0430b93e7b8",
 "name": "DOCTORdripp Wearable Stars #E42",
         "item_index": "#42",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Desert Station"
@@ -823,7 +949,10 @@
       "ethscription_id": "0xb19d20bb854bd2fc034fb560061ec0ed89a4f905bfc4820771c9e89c10cf6493",
 "name": "DOCTORdripp Wearable Stars #E43",
         "item_index": "#43",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Freddys Cave"
@@ -842,7 +971,10 @@
       "ethscription_id": "0x49c28d43984a92f12fa262b4c83c5e5790400805e34dced20a4379a3e4beeb54",
 "name": "DOCTORdripp Wearable Stars #E44",
         "item_index": "#44",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Lushland"
@@ -861,7 +993,10 @@
       "ethscription_id": "0x84961e779718e36be90067f2d1a63feacfabc87cbdfd2652940095a4dc97e470",
 "name": "DOCTORdripp Wearable Stars #E45",
         "item_index": "#45",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Rigid Ridge"
@@ -880,7 +1015,10 @@
       "ethscription_id": "0x4ce7a92cf197517d09e6eeb1d92cb049bdfce14435bf8cc88865c514de3bad17",
 "name": "DOCTORdripp Wearable Stars #E46",
         "item_index": "#46",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Vermuda"
@@ -899,7 +1037,10 @@
       "ethscription_id": "0xcbf9934070ce55608233ef2aba9afead8c4ab87a9938590c05c65938914d6e05",
 "name": "DOCTORdripp Wearable Stars #E47",
         "item_index": "#47",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Rigid Ridge"
@@ -914,7 +1055,10 @@
       "ethscription_id": "0xc1c562f3590ce4060e7d4be1159dcc7ddc46e4582e3199c0b9596246d37bd7f2",
 "name": "DOCTORdripp Wearable Stars #E48",
         "item_index": "#48",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Lushland"
@@ -933,7 +1077,10 @@
       "ethscription_id": "0xd55462a0dd5e678f3ba435b34c8f9f0ab6d39dd89a5004509a28b947e880f75f",
 "name": "DOCTORdripp Wearable Stars #E49",
         "item_index": "#49",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Pirates Cove"
@@ -948,7 +1095,10 @@
       "ethscription_id": "0xf10f728a4bc35127b29c52e119618a95ac76d6d0768005f5a4b7520061020354",
 "name": "DOCTORdripp Wearable Stars #E50",
         "item_index": "#50",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "First Light"
@@ -963,7 +1113,10 @@
       "ethscription_id": "0xe04d141a89f3ea82bcf588b9ecc9e0859dd2337d2c3605edadf94c7a152fa98b",
 "name": "DOCTORdripp Wearable Stars #E51",
         "item_index": "#51",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Prairieland"
@@ -982,7 +1135,10 @@
       "ethscription_id": "0x449410de3e6ca5df1e2ab8e298cfa4bae746f6010fe26cb7322ce6cd1b5a2eef",
 "name": "DOCTORdripp Wearable Stars #E52",
         "item_index": "#52",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Vermuda"
@@ -997,7 +1153,10 @@
       "ethscription_id": "0xf2bb069993b384fcdf0e6c010eab5b1e84fb4cd652836ad294d1a5abb9e2ba9b",
 "name": "DOCTORdripp Wearable Stars #E53",
         "item_index": "#53",
-        "item_attributes": [
+            "description": "",
+    "external_url": "",
+    "background_color": "",
+    "item_attributes": [
           {
             "trait_type": "biome",
             "value": "Clarity Falls"
