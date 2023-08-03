@@ -1,78 +1,1122 @@
-[
-    {
-        "name": "DOCTORdripp Wearable Stars",
-        "inscription_icon": "0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
-        "supply": "3",
-        "slug": "doctordripp-wearable-stars",
-        "description": "64x64 animated Ethscription icons inspired by wearables in DCL metaverse.",
-        "twitter_link": "https://twitter.com/DOCTORdrippNFT",
-        "discord_link": "https://discord.gg/we2KjgwGHK",
-        "website_link": "https://DOCTORdripp.btc.us/",
-        "background_color": "#FFBF00",
-        "inscriptions": [
-          {
-            "id": "0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
-            "meta": {
-              "name": "Wearable Star Emm #1",
-              "attributes": [
-                {
-                  "trait_type": "collection",
-                  "value": "DOCTORdripp Wearable Stars"
-                },
-                {
-                    "trait_type": "biome",
-                    "value": "Lovers Peak"
-                },
-                {
-                    "trait_type": "avatar",
-                    "value": "Emm"
-                }
-              ]
-            },
-            "number": "1"
-          },
-          {
-            "id": "0xe0059e811ff7f313beb2b96bf9036619f42b584b6f47d2bb6843ac3a899c164e",
-            "meta": {
-              "name": "Wearable Star DOCTORdripp #2",
-              "attributes": [
-                {
-                    "trait_type": "collection",
-                    "value": "DOCTORdripp Wearable Stars"
-                  },
-                  {
-                      "trait_type": "biome",
-                      "value": "Blueberry Lake"
-                  },
-                  {
-                    "trait_type": "avatar",
-                    "value": "DOCTORdripp"
-                }
-              ]
-            },
-            "number": "2"
-          },
-          {
-            "id": "0xb826d055f77625f8ec1fdc25909bf2dc51497979f8c3b167a75b0afc8b5a2bd8",
-            "meta": {
-              "name": "Wearable Star Nikki Fuego #3",
-              "attributes": [
-                {
-                    "trait_type": "collection",
-                    "value": "DOCTORdripp Wearable Stars"
-                  },
-                  {
-                      "trait_type": "biome",
-                      "value": "Clarity Falls"
-                  },
-                  {
-                    "trait_type": "avatar",
-                    "value": "Nikki Fuego"
-                }
-              ]
-            },
-            "number": "3"
-          }
-        ]
-      }
-]
+{
+  "name":"DOCTORdripp Wearable Stars",
+  "inscription_icon":"0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
+  "supply":"53",
+  "slug":"doctordripp-wearable-stars",
+  "description":"64x64 Ethscription icons inspired by wearables in DCL metaverse. This is the first expansion of DOCTORdripp's Wearable Star Icons (BTC Ordinals) and features the E prefix for Ethscription exclusives and F prefix for First Edition Animated Icons.",
+  "twitter_link":"https://twitter.com/DOCTORdrippNFT",
+  "discord_link":"https://discord.gg/we2KjgwGHK",
+  "website_link":"https://DOCTORdripp.btc.us/",
+  "biome_color":"#FFBF00",
+  "inscriptions":[
+     {
+        "id":"0xe627906458d408d8f454162943ddb1966849ed3b15ba5b179db1f56d47f329a5",
+        "number":"1",
+        "meta":{
+           "name":"Wearable Star Emm #F1",
+           "attributes":[
+              {
+                 "trait_type":"collection",
+                 "value":"DOCTORdripp Wearable Stars"
+              },
+              {
+                 "trait_type":"biome",
+                 "value":"Lovers Peak"
+              },
+              {
+                 "trait_type":"special edition",
+                 "value":"First Edition Animation"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xe0059e811ff7f313beb2b96bf9036619f42b584b6f47d2bb6843ac3a899c164e",
+        "number":"2",
+        "meta":{
+           "name":"Wearable Star DOCTORdripp #F2",
+           "attributes":[
+              {
+                 "trait_type":"collection",
+                 "value":"DOCTORdripp Wearable Stars"
+              },
+              {
+                 "trait_type":"biome",
+                 "value":"Blueberry Lake"
+              },
+              {
+                 "trait_type":"special edition",
+                 "value":"First Edition Animation"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xb826d055f77625f8ec1fdc25909bf2dc51497979f8c3b167a75b0afc8b5a2bd8",
+        "number":"3",
+        "meta":{
+           "name":"Wearable Star Nikki Fuego #F3",
+           "attributes":[
+              {
+                 "trait_type":"collection",
+                 "value":"DOCTORdripp Wearable Stars"
+              },
+              {
+                 "trait_type":"biome",
+                 "value":"Clarity Falls"
+              },
+              {
+                 "trait_type":"special edition",
+                 "value":"First Edition Animation"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Nikki Fuego"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xe01b97527d2bca33d2142b4254b8398b1e543b6b2a0ca835a39d9894d7590717",
+        "number":"4",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E4",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Cobalt Ridge"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xb3b1dca15bbac7481943aa9eb37abdad5b680f9e166d60dd46411e3243b2c220",
+        "number":"5",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E5",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Blueberry Lake"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"MVFW23 DOCTORdripp"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xb79c42f5c1b2b7e12873a876421ce7a1baf5480a76d6a6a816291112ff3015e2",
+        "number":"6",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E6",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Clarity Falls"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Phygital Hoodie"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x44c5266d3a5b42b79ccb5bf6f249d966c188c73c45ef343471da1b072dae3e41",
+        "number":"7",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E7",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Pirates Cove"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xfcc4842f76203a60ec7466ce9b03a55bf09a3c37d254df5d2bb8328810e35bcc",
+        "number":"8",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E8",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Rigid Ridge"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x1e3c822603937bb7ca39ca9274f4b81a2b1f4678e2c090d7f66da239aa2108af",
+        "number":"9",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E9",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Winterfrost"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing ELITE"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x579c9b8f26128bcd070e6fbab640d53588c5c999cc2a2429207027ce83ac748b",
+        "number":"10",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E10",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Serene Spa"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xfd4545fbb8c90ffc8da22c5ff909821c430d44184ec30508bbea8751e530a4d3",
+        "number":"11",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E11",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Prairieland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x9187a764efb47aa80008fcd8708f4e9964814ee53750bfd35186dddabb87d243",
+        "number":"12",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E12",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Clarity Falls"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xfb2064fbef68877765300d10e907538b1d5d4ae741fa79c675cc52e9c26995cf",
+        "number":"13",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E13",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Jurassic"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xd162fb0feff98d20cb1627cd52a4514eca183b581a672a2f1ec323e41af701da",
+        "number":"14",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E14",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Satoshi Trees"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x13d67dc7dcd1eba9ee498fc6df83a33cec9861b69eabe581f5d6838719210ea0",
+        "number":"15",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E15",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Jurassic"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"MVFW23 dripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xd9c1994962c7479cb5f0b9efbee39a095b8af6cb675a519c0a46720866bc302a",
+        "number":"16",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E16",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Serene Spa"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xc487acaad8a0e15a33b20c088a7727f8925dc16ef7a211dbcde52282cce844e7",
+        "number":"17",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E17",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Rigid Ridge"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x709f09296e6b2ddddcab97d3642bc0e515209db134e5ba63780ed7da75ff797b",
+        "number":"18",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E18",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Element115"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings & Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xcdb69f963deba47eab74e41b2645937a5700d7390616bfb693f1f25daf3106fb",
+        "number":"19",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E19",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Serene Spa"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x7416fbad565bccdf0c5983f0f16b56b953f9de258ae6d5b87ae5bc0ce24b97c6",
+        "number":"20",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E20",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Winterfrost"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"MVFW23 DOCTORdripp"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xaea6294764fd6de2ada2afe212350b941f9fea08365da12ba6adc643b4ca3389",
+        "number":"21",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E21",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Pirates Cove"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Samurai Spotlight ELITE"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"PK Skull"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xbaf0c81ab52c808497aa63e8b1166fcddc919ec9541f07ee006c05cdaf2bc46a",
+        "number":"22",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E22",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Prairieland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm Floating"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xaba98410587c1e1943d6dcaecd4b2105317aa9a26400c2368dd03dbac8b9fc1f",
+        "number":"23",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E23",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Vermuda"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Samurai Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x88a56bd70564d3bcab94d714d5b1b00bb317533643f02814733e81f75aaa2df2",
+        "number":"24",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E24",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Vast Canyon"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Samurai Spotlight"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xa54727794d20c4a0fedf8c4b6f90b3c80f8a7f347b4dc9ecf991803b17cff28b",
+        "number":"25",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E25",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Smokelands"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xa175e8c6150fafc623074c53459da6045f1dccea93a7111f415a25e5182c54f3",
+        "number":"26",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E26",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Desert Station"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x3134b6b4abe10d4c115aa4a07d5ae7078d41e095d2cc26ac7e79a556c4dae51c",
+        "number":"27",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E27",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Element115"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight ELITE"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings & Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xf2e51793fd448621a25747ee6c252807e86acb6a4c3889f4f00e63e391a0c288",
+        "number":"28",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E28",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Mega Forest"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Phygital Hoodie"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xb1a141d91bcd77e5a3c8a8497c27a6470e70e0bac8abb5bdd185534e1b0b4cc0",
+        "number":"29",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E29",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Lovers Peak"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm Floating"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xa823a9c07a460a8f30960ec3550a9fc3dddf465daf91d31040748e2cbfa1892f",
+        "number":"30",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E30",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred Lushland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x1a89381c5207d9e6207043fb79c406b8142067d35e78a15820af402418be0093",
+        "number":"31",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E31",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Freddys Cave"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Spotlight ELITE"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xc9293ff8c6bc43745c8dc1e4d378bba0f33cfd861288d952de4adec7661c5258",
+        "number":"32",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E32",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Serene Spa"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x4cfce234d8668e6987ad77e6cc09f9a4843702cbc8faf57208794095f4616a8e",
+        "number":"33",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E33",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Desert Station"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Samurai Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xce171c6d3b1425434d591cb949105fd859758a17f6fbe0e32d037716f6be3676",
+        "number":"34",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E34",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Amber Point"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xc4dcc9f3569d17ab2a45680a6f35764714202d0a52abe5f02744292ae49b1cce",
+        "number":"35",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E35",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Vermuda"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x565fcc34949d70a81e01d3ec70c1094e01c74d343959421ec52a9fa2a1c91feb",
+        "number":"36",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E36",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Serene Spa"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings & Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x11519b725f580d05357005b5114c4d6f453d5f13626b7ab94e87cfa08104a551",
+        "number":"37",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E37",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Sacred First Morning"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm Floating"
+              },
+              {
+                 "trait_type":"enchantment",
+                 "value":"Doki's Radiance"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xeab11ffe2276734d88710b40cdb46bc089d45c4e40ce569680794c394856bb88",
+        "number":"38",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E38",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Prairieland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x51a10585173974f9458f18aa485676027e54719b8874d995b2d1b8ac845f3fa3",
+        "number":"39",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E39",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Winterfrost"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x758fcee0dc2501d5b33debe98cc72c8a6a0d9e615bace77427addec5e4edd7a6",
+        "number":"40",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E40",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Vermuda"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x77c2f33b235c742baed5b7652829ccea40f03c1d13daaee40dcff61017daf609",
+        "number":"41",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E41",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Jurassic"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x0b248c1a325de6ffad906e13d8350318f95b535a0c8d35a2df64c0430b93e7b8",
+        "number":"42",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E42",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Desert Station"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm Floating"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xb19d20bb854bd2fc034fb560061ec0ed89a4f905bfc4820771c9e89c10cf6493",
+        "number":"43",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E43",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Freddys Cave"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"MVFW23 dripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x49c28d43984a92f12fa262b4c83c5e5790400805e34dced20a4379a3e4beeb54",
+        "number":"44",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E44",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Lushland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings & Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x84961e779718e36be90067f2d1a63feacfabc87cbdfd2652940095a4dc97e470",
+        "number":"45",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E45",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Rigid Ridge"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x4ce7a92cf197517d09e6eeb1d92cb049bdfce14435bf8cc88865c514de3bad17",
+        "number":"46",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E46",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Vermuda"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"DOCTORdripp Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xcbf9934070ce55608233ef2aba9afead8c4ab87a9938590c05c65938914d6e05",
+        "number":"47",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E47",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Rigid Ridge"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xc1c562f3590ce4060e7d4be1159dcc7ddc46e4582e3199c0b9596246d37bd7f2",
+        "number":"48",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E48",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Lushland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xd55462a0dd5e678f3ba435b34c8f9f0ab6d39dd89a5004509a28b947e880f75f",
+        "number":"49",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E49",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Pirates Cove"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Samurai Spotlight"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xf10f728a4bc35127b29c52e119618a95ac76d6d0768005f5a4b7520061020354",
+        "number":"50",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E50",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"First Light"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Emm Floating"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xe04d141a89f3ea82bcf588b9ecc9e0859dd2337d2c3605edadf94c7a152fa98b",
+        "number":"51",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E51",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Prairieland"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Spotlight"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Vroomway Wings & PK Skull"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0x449410de3e6ca5df1e2ab8e298cfa4bae746f6010fe26cb7322ce6cd1b5a2eef",
+        "number":"52",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E52",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Vermuda"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Standing"
+              }
+           ]
+        }
+     },
+     {
+        "id":"0xf2bb069993b384fcdf0e6c010eab5b1e84fb4cd652836ad294d1a5abb9e2ba9b",
+        "number":"53",
+        "meta":{
+           "name":"DOCTORdripp Wearable Stars #E53",
+           "attributes":[
+              {
+                 "trait_type":"biome",
+                 "value":"Clarity Falls"
+              },
+              {
+                 "trait_type":"avatar",
+                 "value":"Transformative Streetwear Vol 2 Shrug"
+              },
+              {
+                 "trait_type":"accessory",
+                 "value":"Kite"
+              }
+           ]
+        }
+     }
+  ]
+}
