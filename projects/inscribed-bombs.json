@@ -4,8 +4,8 @@
     "inscription_icon": "0x0621248c355838291b2594872920687a20cbd2af45336d6a3c72cd5048dcbf9c",
     "supply": "50",
     "slug": "inscribed-bombs",
-    "description": "While waiting to become Bitcoin Bombs on ordinals with the rest of their kind, these 50 bombs couldn't wait for slow transactions of the BTC network and instead inscribed themselves on Ethereum. Soon they will join up with their ordinal friends and holding an Inscribed Bomb gives you WL for BitcoinBombs.",
-    "twitter_link": "https://twitter.com/bitcoinbombs",
+    "description": "Inscribed bombs are a collection of sub 15k ethscripitons! The first original generative art PFP collection to be inscribed on the protocol. Own a piece of history and watch them blow up!",
+    "twitter_link": "https://twitter.com/inscribedbombs",
     "discord_link": "",
     "website_link": "",
     "inscriptions": [
@@ -21,6 +21,26 @@
             {
               "trait_type": "ethscription_number",
               "value": 12807
+            },
+            {
+              "trait_type": "Background",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Cyclops"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
             }
           ]
         },
@@ -38,7 +58,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12818
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Sea Green"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Cyclops"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 2
@@ -55,7 +95,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12825
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Looking Up"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 3
@@ -72,7 +132,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12833
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Explosion"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Flaming"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 4
@@ -89,7 +169,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12842
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Explosion"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Pirate"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Cigarette"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 5
@@ -106,7 +206,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12848
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Explosion"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Gold"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Cigarette"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Wizard"
+            }  
           ]
         },
         "number": 6
@@ -123,7 +243,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12853
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Rain"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Aviators"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Wizard"
+            }  
           ]
         },
         "number": 7
@@ -140,7 +280,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12861
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Space"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Alien"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 8
@@ -157,7 +317,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12865
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Rainbow"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Alien"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 9
@@ -174,7 +354,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12869
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Clouds"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Alien"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 10
@@ -191,7 +391,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12871
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Clouds"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Alien"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Open"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 11
@@ -208,7 +428,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12879
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Alien"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Kiss"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 12
@@ -225,7 +465,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12887
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Beach"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Looking Up"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            }  
           ]
         },
         "number": 13
@@ -242,7 +502,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12889
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Looking Up"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Wizard"
+            }  
           ]
         },
         "number": 14
@@ -259,7 +539,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12894
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Sea Green"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Evil"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            } 
           ]
         },
         "number": 15
@@ -276,7 +576,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12900
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Checkerboard"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Pirate"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            } 
           ]
         },
         "number": 16
@@ -293,7 +613,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12907
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Jail"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Pirate"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Wide Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            } 
           ]
         },
         "number": 17
@@ -310,7 +650,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12912
-            }
+            },
+            {
+              "trait_type": "Background",
+              "value": "Rain"
+            },
+            {
+              "trait_type": "Bomb Color",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Starstruck"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Thin Smile"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Fuse"
+            } 
           ]
         },
         "number": 18
@@ -327,7 +687,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12916
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Sea Green"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Starstruck"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 19
@@ -344,7 +724,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12922
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Yellow"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Gold"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Starstruck"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Cigarette"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 20
@@ -361,7 +761,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12927
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Space"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Gold"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Visor"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Cigarette"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 21
@@ -378,7 +798,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12935
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Yellow"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Visor"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 22
@@ -395,7 +835,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12941
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "American Patriot"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Aviators"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 23
@@ -412,7 +872,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12945
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Thunderstorm"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Gold"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Looking Down"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 24
@@ -429,7 +909,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12954
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "American Patriot"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Aviators"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Cowboy Hat"
+              } 
           ]
         },
         "number": 25
@@ -446,7 +946,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12961
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "White Checkerboard"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Xd Out"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 26
@@ -463,7 +983,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12968
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Underground"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Surprised"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 27
@@ -480,7 +1020,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12973
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Surprised"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Wizard"
+              } 
           ]
         },
         "number": 28
@@ -497,7 +1057,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12981
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Explosion"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Surprised"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Wizard"
+              } 
           ]
         },
         "number": 29
@@ -514,7 +1094,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12986
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Explosion"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Looking Down"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Red Lips"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 30
@@ -531,7 +1131,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 12999
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Aviators"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Sippin Lemonade"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 31
@@ -548,7 +1168,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 13006
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Rainbow"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Visor"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 32
@@ -565,7 +1205,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 13011
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Sea Green"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Surprised"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Sippin Lemonade"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 33
@@ -582,7 +1242,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 13934
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Thunderstorm"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red Lips"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Evil"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Devil"
+              } 
           ]
         },
         "number": 34
@@ -599,7 +1279,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 13982
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Looking Down"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Cigarette"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 35
@@ -616,7 +1316,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14081
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Space"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Red"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Alien"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Open"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 36
@@ -633,7 +1353,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14172
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "White Checkerboard"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Green"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Pirate"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 37
@@ -650,7 +1390,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14278
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Rain"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Cyclops"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Wizard"
+              } 
           ]
         },
         "number": 38
@@ -667,7 +1427,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14332
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Thunderstorm"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Green"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Flaming"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Cigarette"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Devil Fuse"
+              } 
           ]
         },
         "number": 39
@@ -684,7 +1464,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14418
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Black"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Red Lips"
+              },
+              {
+                "trait_type": "Head",
+                "value": "King Crown"
+              } 
           ]
         },
         "number": 40
@@ -701,7 +1501,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14770
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Checkerboard"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Green"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Aviators"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Thin Smile"
+              },
+              {
+                "trait_type": "Head",
+                "value": "King Crown Fuse"
+              } 
           ]
         },
         "number": 41
@@ -718,7 +1538,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14779
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Thunderstorm"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "White Skeleton"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Skeleton Black"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Skeleton Teeth"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 42
@@ -735,7 +1575,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14785
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Underground"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Gold"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Aviators"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Red Lips"
+              },
+              {
+                "trait_type": "Head",
+                "value": "King Crown"
+              } 
           ]
         },
         "number": 43
@@ -752,7 +1612,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14800
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "White Skeleton"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Pirate"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Skeleton Teeth"
+              },
+              {
+                "trait_type": "Head",
+                "value": "King Crown Fuse"
+              } 
           ]
         },
         "number": 44
@@ -769,7 +1649,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14810
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Space"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "White Skeleton"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Skeleton Cyclops"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Skeleton Teeth"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 45
@@ -786,7 +1686,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14883
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "White Checkerboard"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Pirate"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Beard"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Fuse"
+              } 
           ]
         },
         "number": 46
@@ -803,7 +1723,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14947
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Green"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Surprised"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Beard"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Wizard"
+              } 
           ]
         },
         "number": 47
@@ -820,7 +1760,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14954
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Beach"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Green"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Visor"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Beard"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 48
@@ -837,7 +1797,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14974
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Rain"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "Gold"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Blue"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Kiss"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Hoodie"
+              } 
           ]
         },
         "number": 49
@@ -854,7 +1834,27 @@
             {
               "trait_type": "ethscription_number",
               "value": 14985
-            }
+            },
+            {
+                "trait_type": "Background",
+                "value": "Underground"
+              },
+              {
+                "trait_type": "Bomb Color",
+                "value": "White Skeleton"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Skeleton Black"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Kiss"
+              },
+              {
+                "trait_type": "Head",
+                "value": "Wizard"
+              } 
           ]
         },
         "number": 50
