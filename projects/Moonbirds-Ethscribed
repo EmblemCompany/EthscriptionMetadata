@@ -33,6 +33,31 @@
           ]
         },
         "number": "1"
+      },
+{
+        "id": "0x6206f7105aa22baa4462662c393966855efb3072eba433bc57c065360c40a4e1",
+        "meta": {
+          "name": "Moonbirds Ethscribed #2642",
+          "attributes": [
+            {
+              "trait_type": "collection",
+              "value": "Moonbirds Ethscribed"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Jade Green"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Jade"
+            },
+            {
+              "trait_type": "Feathers",
+              "value": "Legendary Sage"
+            }
+          ]
+        },
+        "number": "2"
       }
     ]
 }
